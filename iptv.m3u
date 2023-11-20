@@ -1,73 +1,55 @@
 #EXTM3U
-#EXTINF:-1,CCTV1高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv1/HD-2500k-1080P-cctv1
-#EXTINF:-1,CCTV2
-http://183.207.248.71/cntv/live1/cctv-2/cctv-2
-#EXTINF:-1,CCTV3
-http://183.207.248.71/cntv/live1/cctv-3/cctv-3
-#EXTINF:-1,CCTV4
-http://183.207.248.71/cntv/live1/cctv-4/cctv-4
-#EXTINF:-1,CCTV5
-http://183.207.248.71/cntv/live1/cctv-5/cctv-5
-#EXTINF:-1,CCTV5+
-http://183.207.248.71/cntv/live1/hdcctv05plus/hdcctv05plus
-#EXTINF:-1,CCTV6
-http://183.207.248.71/cntv/live1/cctv-6/cctv-6
-#EXTINF:-1,CCTV7
-http://183.207.248.71/cntv/live1/cctv-7/cctv-7
-#EXTINF:-1,CCTV8
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv8/HD-2500k-1080P-cctv8
-#EXTINF:-1,CCTV9
-http://183.207.248.71/cntv/live1/cctv-news/cctv-news
-#EXTINF:-1,CCTV10
-http://183.207.248.71/cntv/live1/cctv-10/cctv-10
-#EXTINF:-1,CCTV11
-http://183.207.248.71/cntv/live1/cctv-11/cctv-11
-#EXTINF:-1,CCTV12
-http://183.207.248.71/cntv/live1/cctv-12/cctv-12
-#EXTINF:-1,CCTV13
-http://183.207.248.71/cntv/live1/cctv-13/cctv-13
-#EXTINF:-1,CCTV14
-http://183.207.248.71/cntv/live1/cctv-14/cctv-14
-#EXTINF:-1,CCTV15
-http://183.207.248.71/cntv/live1/cctv-15/cctv-15
-#EXTINF:-1,CGTN
-http://183.207.248.71/cntv/live1/cctv-9/cctv-9
-#EXTINF:-1,优购物
-http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
-#EXTINF:-1,家有购物
-http://183.207.248.71/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw
-#EXTINF:-1,江苏卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
-#EXTINF:-1,浙江卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
-#EXTINF:-1,北京卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
-#EXTINF:-1,湖南卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
-#EXTINF:-1,广东卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
-#EXTINF:-1,东方卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
-#EXTINF:-1,黑龙江卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-#EXTINF:-1,深圳卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
-#EXTINF:-1,山东卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
-#EXTINF:-1,天津卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
-#EXTINF:-1,湖北卫视高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
-#EXTINF:-1,CCTV6高清
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6
-#EXTINF:-1,江西卫视
-http://183.207.248.71/cntv/live1/jiangxistv/jiangxistv
-#EXTINF:-1,河南卫视
-http://183.207.248.71/cntv/live1/henanstv/henanstv
-#EXTINF:-1,安徽卫视
-http://183.207.248.71/cntv/live1/anhuistv/anhuistv
-#EXTINF:-1,新疆卫视
-http://183.207.248.71/cntv/live1/xinjiangstv/xinjiangstv
-#EXTINF:-1,云南卫视
-http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
+#EXTINF:-1 group-title="未分组",CCTV1
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv1/H265-5500k-1080P-cctv1
+#EXTINF:-1 group-title="未分组",CCTV2
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv2/H265-5500k-1080P-cctv2
+#EXTINF:-1 group-title="未分组",CCTV3
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv3/H265-5500k-1080P-cctv3
+#EXTINF:-1 group-title="未分组",CCTV4
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv4/H265-5500k-1080P-cctv4
+#EXTINF:-1 group-title="未分组",CCTV5
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv5/H265-5500k-1080P-cctv5
+#EXTINF:-1 group-title="未分组",CCTV6
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv6/H265-5500k-1080P-cctv6
+#EXTINF:-1 group-title="未分组",CCTV8
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv8/H265-5500k-1080P-cctv8
+#EXTINF:-1 group-title="未分组",CCTV9
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv9/H265-5500k-1080P-cctv9
+#EXTINF:-1 group-title="未分组",CCTV10
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv10/H265-5500k-1080P-cctv10
+#EXTINF:-1 group-title="未分组",CCTV11
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv11/H265-5500k-1080P-cctv11
+#EXTINF:-1 group-title="未分组",CCTV12
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv12/H265-5500k-1080P-cctv12
+#EXTINF:-1 group-title="未分组",CCTV13
+http://183.207.248.71:80/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
+#EXTINF:-1 group-title="未分组",CCTV14
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv14/H265-5500k-1080P-cctv14
+#EXTINF:-1 group-title="未分组",CCTV15
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv15/H265-5500k-1080P-cctv15
+#EXTINF:-1 group-title="未分组",CCTV16
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv16/HD-8000k-1080P-cctv16
+#EXTINF:-1 group-title="未分组",CCTV16(4K)
+http://183.207.248.71:80/cntv/live1/HD-20M-2160P-cctv16/HD-20M-2160P-cctv16
+#EXTINF:-1 group-title="未分组",CCTV17
+http://183.207.248.71:80/cntv/live1/H265-5500k-1080P-cctv17/H265-5500k-1080P-cctv17
+#EXTINF:-1 group-title="未分组",全民xx
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl
+#EXTINF:-1 group-title="未分组",咪咕奥运1
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
+#EXTINF:-1 group-title="未分组",咪咕奥运2
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
+#EXTINF:-1 group-title="未分组",CGTN
+http://183.207.248.71:80/cntv/live1/cctvennews/cctvennews
+#EXTINF:-1 group-title="未分组",CCTV高尔夫网球
+http://183.207.248.71:80/cntv/live1/SD-4000k-576P-golf/SD-4000k-576P-golf
+#EXTINF:-1 group-title="未分组",CGTN纪录片
+http://183.207.248.71:80/cntv/live1/n-cctv-9/n-cctv-9
+#EXTINF:-1 group-title="未分组",知否知否
+http://183.207.248.71:80/cntv/live1/zhifouzf/zhifouzf
+#EXTINF:-1 group-title="未分组",动画
+http://183.207.248.71:80/gitv/live1/GITV-JS-12/GITV-JS-12
+#EXTINF:-1 group-title="未分组",动画
+http://183.207.248.71:80/gitv/live1/GITV-JS-13/GITV-JS-13
+#EXTINF:-1 group-title="未分组",黑莓动画
+http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg

@@ -135,7 +135,7 @@ http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
 http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/NgzjcJSKDXTB.png" group-title="NewTV",NEWTV古装剧场
 http://223.110.241.139:6610/cntv/live1/n-guzhuangjc/n-guzhuangjc
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/imnages/ysten/TV/dongzuody/NdzdyJSKDXTB.png" group-title="NewTV",NEWTV动作电影
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongzuody/NdzdyJSKDXTB.png" group-title="NewTV",NEWTV动作电影
 http://223.110.241.139:6610/cntv/live1/n-dongzuody/n-dongzuody
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junlvjc/NjljcJSKDXTB.png" group-title="NewTV",NEWTV军旅剧场
 http://223.110.241.139:6610/cntv/live1/n-junlvjc/n-junlvjc

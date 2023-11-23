@@ -1,5 +1,4 @@
-name: Sync Github Repos To Gitee
-
+name: Github2Gitee同步（iptv-yuan）
 on: 
   schedule:
     - cron: '0 0 * * *'
@@ -15,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Sync Github Repos To Gitee  # 名字随便起
+    - name: Github2Gitee同步（iptv-yuan）  # 名字随便起
       uses: Yikun/hub-mirror-action@master  # 使用Yikun/hub-mirror-action
       with:
         src: github/cairong  # 源端账户名(github)

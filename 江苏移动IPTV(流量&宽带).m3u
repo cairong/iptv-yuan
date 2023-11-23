@@ -100,11 +100,11 @@ http://223.110.241.139:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hu
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://223.110.241.139:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+http://223.110.241.139:6610/gitv/live1/G_GANSU/G_GANSU/
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://223.110.241.139:6610/cntv/live1/liaoningstv/liaoningstv
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视

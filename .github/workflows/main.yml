@@ -1,13 +1,5 @@
 name: Github2Gitee同步（iptv-yuan）
-on: 
-  schedule:
-    - cron: '0 0 * * *'
-  push:
-    branches: [ main ]
-  delete:
-    branches: [ main ]
-  create:
-    branches: [ main ]
+on: [ push, delete, create ]
     
 jobs:
   build:

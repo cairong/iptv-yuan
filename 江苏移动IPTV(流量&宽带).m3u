@@ -13,7 +13,7 @@ http://223.110.241.139:6610/cntv/live1/H265-8000k-1080P-cctv5/H265-8000k-1080P-c
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6电影
 http://223.110.241.139:6610/cntv/live1/H265-8000k-1080P-cctv6/H265-8000k-1080P-cctv6
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7军事 农业
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7国防军事
 http://223.110.241.139:6610/cntv/live1/H265-8000k-1080P-cctv7/H265-8000k-1080P-cctv7
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV-8电视剧
 http://223.110.241.139:6610/cntv/live1/H265-8000k-1080P-cctv8/H265-8000k-1080P-cctv8

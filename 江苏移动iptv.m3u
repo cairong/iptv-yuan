@@ -299,5 +299,25 @@ http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K+",CCTV16-4K 34M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K+",4K修复 7M2160HEVC
+#EXTINF:-1 tvg-id="7245" tvg-name="4K修复" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="4K+",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="中数传媒",CCTV兵器科技
+http://223.110.241.139:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="中数传媒",环球奇观
+http://223.110.241.139:6610/gitv/live1/G_HUANGQIUQIGUAN/G_HUANGQIUQIGUAN/
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="中数传媒",汽摩
+http://223.110.241.139:6610/gitv/live1/G_QIMO/G_QIMO/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中数传媒",中学生
+http://223.110.241.139:6610/gitv/live1/G_ZHONGXUESHENG/G_ZHONGXUESHENG/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊出没
+http://223.110.241.139:6610/gitv/live1/GITV-JS-10/GITV-JS-10/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级飞侠
+http://223.110.241.139:6610/gitv/live1/GITV-JS-11/GITV-JS-11/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIP电影
+http://223.110.241.139:6610/gitv/live1/GITV-JS-14/GITV-JS-14/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",小电视
+http://223.110.241.139:6610/gitv/live1/GITV-JS-15/GITV-JS-15/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健身
+http://223.110.241.139:6610/gitv/live1/GITV-JS-4/GITV-JS-4/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIP电影2
+http://223.110.241.139:6610/gitv/live1/GITV-JS-9/GITV-JS-9/

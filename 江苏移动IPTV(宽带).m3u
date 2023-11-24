@@ -329,7 +329,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知电视剧
 http://ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武博世界
+#EXTINF:-1 tvg-id="" tvg-name="NEWTV武搏世界" tvg-logo="https://epg.112114.xyz/logo/NEWTV武搏世界.png" group-title="NEWTV",NEWTV武搏世界
 http://ott.mobaibox.com/PLTV/4/224/3221227533/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",香港 翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8

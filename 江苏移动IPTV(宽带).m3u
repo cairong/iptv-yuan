@@ -171,11 +171,11 @@ http://223.110.241.139:6610/cntv/live1/n-saishijx/n-saishijx
 http://223.110.241.139:6610/cntv/live1/n-junshipl/n-junshipl
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/nongyezf/NnyzfJSKDXTB.png" group-title="NewTV",NEWTV农业致富
 http://223.110.241.139:6610/cntv/live1/n-nongyezf/n-nongyezf
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/wmyx/NdjJSKDXTB.png" group-title="NewTV",NEWTV电竞
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/wmyx/NdjJSKDXTB.png" group-title="NewTV",NEWTV哒啵赛事
 http://223.110.241.139:6610/cntv/live1/wmyx/wmyx
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/NjpjlJSKDXTB.png" group-title="NewTV",NEWTV精品纪录
 http://223.110.241.139:6610/cntv/live1/n-jingpinjl/n-jingpinjl
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ljiankangyouyue/NjkyyJSKDXTB.png" group-title="NewTV",NEWTV健康有约
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ljiankangyouyue/NjkyyJSKDXTB.png" group-title="NewTV",NEWTV怡伴健康
 http://223.110.241.139:6610/cntv/live1/n-ljiankangyouyue/n-ljiankangyouyue
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jtiyu/NjptyJSKDXTB.png" group-title="NewTV",NEWTV精品体育
 http://223.110.241.139:6610/cntv/live1/n-jtiyu/n-jtiyu
@@ -183,8 +183,6 @@ http://223.110.241.139:6610/cntv/live1/n-jtiyu/n-jtiyu
 http://223.110.241.139:6610/cntv/live1/n-cmlapo/n-cmlapo
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/donghuawg/NdhwgJSKDXTB.png" group-title="NewTV",NEWTV动画王国
 http://223.110.241.139:6610/cntv/live1/donghuawg/donghuawg
-#EXTINF:-1 group-title="未分类",考试在线
-http://223.110.241.139:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/
 #EXTINF:-1 group-title="未分类",置业频道
 http://223.110.241.139:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
 #EXTINF:-1 group-title="未分类",新娱乐
@@ -199,7 +197,7 @@ http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
 http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:-1 group-title="未分类",全民热练
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl
-#EXTINF:-1 group-title="未分类",咪咕足球
+#EXTINF:-1 group-title="未分类",咪咕精彩足球
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
 #EXTINF:-1 group-title="未分类",咪咕篮球
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
@@ -209,7 +207,7 @@ http://223.110.241.139:6610/cntv/live1/n-cctv-9/n-cctv-9
 http://223.110.241.139:6610/cntv/live1/zhifouzf/zhifouzf
 #EXTINF:-1 group-title="未分类",小猪佩奇
 http://223.110.241.139:6610/gitv/live1/GITV-JS-12/GITV-JS-12
-#EXTINF:-1 group-title="未分类",汪汪队
+#EXTINF:-1 group-title="未分类",汪汪队立大功
 http://223.110.241.139:6610/gitv/live1/GITV-JS-13/GITV-JS-13
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="未分类",中国交通频道
 http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
@@ -315,15 +313,15 @@ http://223.110.241.139:6610/gitv/live1/GITV-JS-10/GITV-JS-10/
 http://223.110.241.139:6610/gitv/live1/GITV-JS-11/GITV-JS-11/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VIP电影
 http://223.110.241.139:6610/gitv/live1/GITV-JS-14/GITV-JS-14/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Bilibili
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",B站番剧
 http://223.110.241.139:6610/gitv/live1/GITV-JS-15/GITV-JS-15/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健身
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",居家健身
 http://223.110.241.139:6610/gitv/live1/GITV-JS-4/GITV-JS-4/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道1
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道2
 http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",奥特曼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",德凯奥特曼
 http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知电影频道
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8

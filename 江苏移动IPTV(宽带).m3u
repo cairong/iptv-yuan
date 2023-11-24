@@ -327,4 +327,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕综合体育
 http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1电视剧
+http://ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="中数传媒",#EXTINF-1发现之旅
+http://ott.mobaibox.com/PLTV/4/224/3221227030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1武博世界
+http://ott.mobaibox.com/PLTV/4/224/3221227533/index.m3u8

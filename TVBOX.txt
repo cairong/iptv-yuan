@@ -1,1 +1,9 @@
 http://pandown.pro/tvbox/tvbox.json
+http://pandown.pro/tvbox/tvbox.json
+http://cdn.qiaoji8.com/tvbox.json
+https://la.kstore.space/download/2883/0110.txt (直播电视）
+http://8.210.232.168/xc.json
+https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
+https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json（直播电视）
+https://szyyds.cn/tv/x.json
+https://agit.ai/cyl518/yl/raw/branch/master/ml.json（直播电视！！！）

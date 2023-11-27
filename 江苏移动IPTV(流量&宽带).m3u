@@ -47,7 +47,7 @@ http://223.110.241.139:6610/gitv/live1/G_YUNNAN-HQ/G_YUNNAN-HQ/
 http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
-#EXTINF:-1 group-title="卫视",农林卫视
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-nonglinstv/jsdwzbwsjghjkl11.png" group-title="卫视",农林卫视
 http://223.110.241.139:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
@@ -57,13 +57,13 @@ http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 http://223.110.241.139:6610/gitv/live1/G_JILIN-CQ/G_JILIN-CQ/
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://223.110.241.139:6610/gitv/live1/G_SICHUAN-CQ/G_SICHUAN-CQ/
-#EXTINF:-1 group-title="卫视",大湾区卫视
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-nanfangstv/jsdgfhsdklghasd.png" group-title="卫视",大湾区卫视
 http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://223.110.241.139:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
-#EXTINF:-1 group-title="卫视",安多卫视
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/anduostv/jsdwzbwsjghjkl18.png" group-title="卫视",安多卫视
 http://223.110.241.139:6610/gitv/live1/G_ANDUO/G_ANDUO/
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://223.110.254.203:6610/cntv/live1/HD-8000k-1080P-anhuistv/HD-8000k-1080P-anhuistv/
@@ -221,10 +221,10 @@ http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
 http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="未分类",CETV-2
 http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="未分类",CETV-4
-http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="未分类",CETV-3
 http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="未分类",CETV-4
+http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:-1 tvg-id="6581" tvg-name="中数早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="未分类",CETV-早期教育
 http://183.207.248.71/gitv/live1/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="未分类",金鹰卡通

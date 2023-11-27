@@ -305,7 +305,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/
 #EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="中数传媒",环球奇观
 http://223.110.241.139:6610/gitv/live1/G_HUANGQIUQIGUAN/G_HUANGQIUQIGUAN/
-#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="中数传媒",汽摩
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_QIMO/ghjksdk10.png" group-title="中数传媒",汽摩
 http://223.110.241.139:6610/gitv/live1/G_QIMO/G_QIMO/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_ZHONGXUESHENG/ghjksdk02.png" group-title="中数传媒",中学生
 http://223.110.241.139:6610/gitv/live1/G_ZHONGXUESHENG/G_ZHONGXUESHENG/

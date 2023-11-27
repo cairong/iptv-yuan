@@ -115,25 +115,25 @@ http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/
 http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-#EXTINF:-1 group-title="地方",江苏教育
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSJY/jsdwzbwsjghjkl29.png" group-title="地方",江苏教育
 http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
-#EXTINF:-1 group-title="地方",江苏城市
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSCS/dfghjhg17.png" group-title="地方",江苏城市
 http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
-#EXTINF:-1 group-title="地方",江苏公共
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSGG/dfghjhg16.png" group-title="地方",江苏公共
 http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
-#EXTINF:-1 group-title="地方",江苏影视
+#EXTINF:-1 tvg-logo="" group-title="地方",江苏影视
 http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
-#EXTINF:-1 group-title="地方",江苏休闲体育
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSTY/dfghjhg18.png" group-title="地方",江苏休闲体育
 http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
-#EXTINF:-1 group-title="地方",江苏综艺
+#EXTINF:-1 tvg-logo="" group-title="地方",江苏综艺
 http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
-#EXTINF:-1 group-title="地方",南京新闻综合
+#EXTINF:-1 tvg-logo="" group-title="地方",南京新闻综合
 http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
-#EXTINF:-1 group-title="地方",南京科教
+#EXTINF:-1 tvg-logo="" group-title="地方",南京科教
 http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
-#EXTINF:-1 group-title="地方",南京十八
+#EXTINF:-1 tvg-logo="" group-title="地方",南京十八
 http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
-#EXTINF:-1 group-title="地方",山东教育电视台
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongjy/jsdwzbwsjghjkl21.png" group-title="地方",山东教育电视台
 http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
@@ -157,7 +157,7 @@ http://223.110.241.139:6610/cntv/live1/n-bokesen/n-bokesen
 http://223.110.241.139:6610/cntv/live1/HD-4000k-1080P-xwwl/HD-4000k-1080P-xwwl
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/mingxingdp/NmxdpJSKDXTB.png" group-title="NewTV",NEWTV明星大片
 http://223.110.241.139:6610/cntv/live1/n-mingxingdp/n-mingxingdp
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jdianying/NjpdyJSKDXTB.png" group-title="NewTV",NEWTV黑莓电影
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Supermovie/gsjdkfshdfe.png" group-title="NewTV",NEWTV黑莓电影
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/aiqingxj/NaqxjJSKDXTB.png" group-title="NewTV",NEWTV爱情喜剧
 http://223.110.241.139:6610/cntv/live1/n-aiqingxj/n-aiqingxj
@@ -171,7 +171,7 @@ http://223.110.241.139:6610/cntv/live1/n-saishijx/n-saishijx
 http://223.110.241.139:6610/cntv/live1/n-junshipl/n-junshipl
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/nongyezf/NnyzfJSKDXTB.png" group-title="NewTV",NEWTV农业致富
 http://223.110.241.139:6610/cntv/live1/n-nongyezf/n-nongyezf
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/wmyx/NdjJSKDXTB.png" group-title="NewTV",NEWTV哒啵赛事
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Superwmyx/jsxbyxtbdbss1.png" group-title="NewTV",NEWTV哒啵赛事
 http://223.110.241.139:6610/cntv/live1/wmyx/wmyx
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/NjpjlJSKDXTB.png" group-title="NewTV",NEWTV精品纪录
 http://223.110.241.139:6610/cntv/live1/n-jingpinjl/n-jingpinjl
@@ -195,19 +195,19 @@ http://223.110.241.139:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
 http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="未分类",哈哈炫动
 http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
-#EXTINF:-1 group-title="未分类",全民热练
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/ghshdfka.png" group-title="未分类",全民热练
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-quanminrl/HD-8000k-1080P-quanminrl
-#EXTINF:-1 group-title="未分类",咪咕精彩足球
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun1/MGTYR20211021.png" group-title="未分类",咪咕精彩足球
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
-#EXTINF:-1 group-title="未分类",咪咕篮球
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun2/ZHTYYXTBJS.png" group-title="未分类",咪咕综合体育
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
 #EXTINF:-1 group-title="未分类",CGTV纪录
 http://223.110.241.139:6610/cntv/live1/n-cctv-9/n-cctv-9
-#EXTINF:-1 group-title="未分类",知否知否
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/zhifouzf/hhhlsdfg.png" group-title="未分类",知否知否
 http://223.110.241.139:6610/cntv/live1/zhifouzf/zhifouzf
-#EXTINF:-1 group-title="未分类",小猪佩奇
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-10/hksadfsld.png" group-title="未分类",小猪佩奇
 http://223.110.241.139:6610/gitv/live1/GITV-JS-12/GITV-JS-12
-#EXTINF:-1 group-title="未分类",汪汪队立大功
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-10/hksadfsld.png" group-title="未分类",汪汪队立大功
 http://223.110.241.139:6610/gitv/live1/GITV-JS-13/GITV-JS-13
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="未分类",中国交通频道
 http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
@@ -225,15 +225,17 @@ http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/
 http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="未分类",CETV-3
 http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
+#EXTINF:-1 tvg-id="6581" tvg-name="中数早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="未分类",CETV-早期教育
+http://183.207.248.71/gitv/live1/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="未分类",金鹰卡通
 http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="未分类",卡酷少儿
 http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:-1 group-title="未分类",中华美食
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-zhmeishi/xbyxtbzhms21.png" group-title="未分类",中华美食
 http://223.110.241.139:6610/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="未分类",纪实人文
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
-#EXTINF:-1 group-title="未分类",百姓生活
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/baixingsh/dkfhaks.png" group-title="未分类",百姓生活
 http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中数传媒",CCTV电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
@@ -281,15 +283,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 group-title="4K+",8K测试 48M4320
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="4K+",纯享4K 12M2160
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="4K+",纯享4K 12M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 group-title="4K+",纯享4K 16M2160
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="4K+",纯享4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 group-title="4K+",纯享4K 16M2160
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="4K+",纯享4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 group-title="4K+",纯享4K 25M2160HDR
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="4K+",纯享4K 25M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="4K+",纯享4K 30M2160HDR
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="4K+",纯享4K 30M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K+",CCTV16-4K 18M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
@@ -305,28 +307,26 @@ http://223.110.241.139:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/
 http://223.110.241.139:6610/gitv/live1/G_HUANGQIUQIGUAN/G_HUANGQIUQIGUAN/
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="中数传媒",汽摩
 http://223.110.241.139:6610/gitv/live1/G_QIMO/G_QIMO/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="中数传媒",中学生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_ZHONGXUESHENG/ghjksdk02.png" group-title="中数传媒",中学生
 http://223.110.241.139:6610/gitv/live1/G_ZHONGXUESHENG/G_ZHONGXUESHENG/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊出没
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-10/hksadfsld.png" group-title="未分类",熊出没
 http://223.110.241.139:6610/gitv/live1/GITV-JS-10/GITV-JS-10/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",超级飞侠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-10/hksadfsld.png" group-title="未分类",超级飞侠
 http://223.110.241.139:6610/gitv/live1/GITV-JS-11/GITV-JS-11/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高分电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-14/hjks.png" group-title="未分类",高分电影
 http://223.110.241.139:6610/gitv/live1/GITV-JS-14/GITV-JS-14/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",B站番剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-15/jsepgtbdkhasdks13.png" group-title="未分类",B站番剧
 http://223.110.241.139:6610/gitv/live1/GITV-JS-15/GITV-JS-15/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",居家健身
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-4/hskdfs.png" group-title="未分类",居家健身
 http://223.110.241.139:6610/gitv/live1/GITV-JS-4/GITV-JS-4/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道1
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",二更
 http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",德凯奥特曼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-10/hksadfsld.png" group-title="未分类",德凯奥特曼
 http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知电影频道
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕综合体育
-http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知电视剧
 http://ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",香港 翡翠台

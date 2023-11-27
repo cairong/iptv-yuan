@@ -121,11 +121,11 @@ http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
 http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSGG/dfghjhg16.png" group-title="地方",江苏公共
 http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
-#EXTINF:-1 tvg-logo="" group-title="地方",江苏影视
+#EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/jsys.png" group-title="地方",江苏影视
 http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/G_JSTY/dfghjhg18.png" group-title="地方",江苏休闲体育
 http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
-#EXTINF:-1 tvg-logo="" group-title="地方",江苏综艺
+#EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/jszy.png" group-title="地方",江苏综艺
 http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
 #EXTINF:-1 tvg-logo="" group-title="地方",南京新闻综合
 http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
@@ -137,7 +137,7 @@ http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
 http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/wxxwzh.webp" group-title="地方",无锡新闻综合
+#EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/wxxwzh.png" group-title="地方",无锡新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/NgzjcJSKDXTB.png" group-title="NewTV",NEWTV古装剧场
 http://223.110.241.139:6610/cntv/live1/n-guzhuangjc/n-guzhuangjc
@@ -187,7 +187,7 @@ http://223.110.241.139:6610/cntv/live1/donghuawg/donghuawg
 http://223.110.241.139:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
 #EXTINF:-1 group-title="未分类",新娱乐
 http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
-#EXTINF:-1 group-title="未分类",家庭理财
+#EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/jtlc.png" group-title="未分类",家庭理财
 http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
 #EXTINF:-1 group-title="未分类",职业指南
 http://223.110.241.139:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/

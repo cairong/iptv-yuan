@@ -321,7 +321,7 @@ http://223.110.241.139:6610/gitv/live1/GITV-JS-15/GITV-JS-15/
 http://223.110.241.139:6610/gitv/live1/GITV-JS-4/GITV-JS-4/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",未知频道1
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/ergeng.jpg" group-title="未分类",二更视频
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/ergeng.png" group-title="未分类",二更视频
 http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GITV-JS-10/hksadfsld.png" group-title="未分类",德凯奥特曼
 http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8

@@ -139,6 +139,14 @@ http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/wxxwzh.png" group-title="地方",无锡新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="地方",求索动物
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",求索纪录
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" group-title="地方",求索科学
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",求索生活
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/NgzjcJSKDXTB.png" group-title="NewTV",NEWTV古装剧场
 http://223.110.241.139:6610/cntv/live1/n-guzhuangjc/n-guzhuangjc
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongzuody/NdzdyJSKDXTB.png" group-title="NewTV",NEWTV动作电影
@@ -183,6 +191,16 @@ http://223.110.241.139:6610/cntv/live1/n-jtiyu/n-jtiyu
 http://223.110.241.139:6610/cntv/live1/n-cmlapo/n-cmlapo
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/donghuawg/NdhwgJSKDXTB.png" group-title="NewTV",NEWTV动画王国
 http://223.110.241.139:6610/cntv/live1/donghuawg/donghuawg
+#EXTINF:-1 tvg-logo="" group-title="NewTV",NEWTV东北热剧
+http://39.134.66.110/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NewTV",NEWTV超级电视剧
+http://39.134.66.110/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NewTV",NEWTV超级电影
+http://39.134.66.110/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NewTV",NEWTV超级体育
+http://39.134.66.110/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NewTV",NEWTV超级综艺
+http://39.134.66.110/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 group-title="未分类",置业频道
 http://223.110.241.139:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
 #EXTINF:-1 group-title="未分类",新娱乐

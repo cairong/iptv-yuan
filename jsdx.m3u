@@ -60,9 +60,27 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 #EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
 #EXTINF:-1 group-title="地方",百视通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
+#EXTINF:-1 group-title="地方",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 group-title="地方",嘉佳卡通
@@ -79,17 +97,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 #EXTINF:-1 group-title="地方",优漫卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225758/index.m3u8
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225759/index.m3u8
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8
-
-
-
-
-
-
 #EXTINF:-1 group-title="地方",哈哈炫动
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 #EXTINF:-1 group-title="地方",山东教育
@@ -168,8 +175,14 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
 #EXTINF:-1 group-title="陕西",西乡融媒
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
-
-
+#EXTINF:-1 group-title="陕西",汉中公共
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
+#EXTINF:-1 group-title="陕西",汉中教育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+#EXTINF:-1 group-title="陕西",？？？频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226000/index.m3u8
+#EXTINF:-1 group-title="",精彩综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongzuody/NdzdyJSKDXTB.pn" group-title="NewTV",NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/NgzjcJSKDXTB.png" group-title="NewTV",NewTV古装剧场

@@ -1,4 +1,4 @@
-name: 'GitHub Actions Mirror'
+name: 'GitHub同步到Gitlab和Gitee'
 
 on: [push, delete, create ]
 

@@ -12,9 +12,9 @@ jobs:
         uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url:
-            git@gitee.com:tsund/test.git
+            git@gitee.com:xionggewx/iptv-yuan.git
           ssh_private_key:
-            ${{ secrets.GITEE_KEY }}
+            ${{ secrets.GITEE_PRIVATE_KEY }}
 
   mirror_to_gitlab:
     runs-on: ubuntu-latest
@@ -25,6 +25,6 @@ jobs:
         uses: pixta-dev/repository-mirroring-action@v1
         with:
           target_repo_url:
-            git@gitlab.com:tsund/test.git
+            git@gitlab.com:cairong2/iptv-yuan.git
           ssh_private_key:
-            ${{ secrets.GITLAB_KEY }}
+            ${{ secrets.GITLAB_PRIVATE_KEY }}

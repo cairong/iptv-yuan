@@ -49,10 +49,10 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12166/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12114/index.m3u8
 #EXTINF:-1 tvg-id="3143" tvg-name="Bang!" tvg-logo="http://epg.it999.ru/img2/3143.png" group-title="欧美",Bang!
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6174/index.m3u8
-#EXTINF:-1 tvg-id="23879" tvg-name="Barely Legal TV" tvg-logo="http://list.8v8i8p.com/img/channel_icons/23879.png" group-title="欧美",Barely Legal TV
-http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/23879/hls/pl.m3u8
 #EXTINF:-1 tvg-id="7745" tvg-name="Barely Legal TV" tvg-logo="http://epg.it999.ru/img2/7745.png" group-title="欧美",Barely Legal TV
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12165/index.m3u8
+#EXTINF:-1 tvg-id="23879" tvg-name="Barely Legal TV" tvg-logo="http://list.8v8i8p.com/img/channel_icons/23879.png" group-title="欧美",Barely Legal TV
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/23879/hls/pl.m3u8
 #EXTINF:-1 tvg-id="7744" tvg-name="BBC Pie" tvg-logo="http://epg.it999.ru/img2/7744.png" group-title="欧美",BBC Pie
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12164/index.m3u8
 #EXTINF:-1 tvg-id="6228" tvg-name="BCU Charm HD" tvg-logo="http://epg.it999.ru/img2/6228.png" group-title="欧美",BCU Charm HD
@@ -161,10 +161,10 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6200/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12107/index.m3u8
 #EXTINF:-1 tvg-id="2780" tvg-name="Extasy 4K" tvg-logo="http://epg.it999.ru/img2/3170.png" group-title="欧美",Extasy 4K
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/5014/index.m3u8
-#EXTINF:-1 tvg-id="2780" tvg-name="EXTASY HD" tvg-logo="http://epg.it999.ru/img2/3170.png" group-title="欧美",EXTASY HD
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/11051/index.m3u8
 #EXTINF:-1 tvg-id="2780" tvg-name="Extasy HD" tvg-logo="http://epg.it999.ru/img2/3170.png" group-title="欧美",Extasy HD
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6201/index.m3u8
+#EXTINF:-1 tvg-id="2780" tvg-name="EXTASY HD" tvg-logo="http://epg.it999.ru/img2/3170.png" group-title="欧美",EXTASY HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/11051/index.m3u8
 #EXTINF:-1 tvg-id="2497" tvg-name="Extreme" tvg-logo="http://epg.it999.ru/img2/3242.png" group-title="欧美",Extreme
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6273/index.m3u8
 #EXTINF:-1 tvg-id="2632" tvg-name="Exxxotica HD" tvg-logo="http://epg.it999.ru/img2/2632.png" group-title="欧美",Exxxotica HD
@@ -191,6 +191,12 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6209/index
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6210/index.m3u8
 #EXTINF:-1 tvg-id="2748" tvg-name="FashionTV Midnight Secrets" tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="欧美",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="欧美",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="欧美",Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="欧美",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3243" tvg-name="Fast Boyz" tvg-logo="http://epg.it999.ru/img2/3243.png" group-title="欧美",Fast Boyz
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6274/index.m3u8
 #EXTINF:-1 tvg-id="3181" tvg-name="FemJoy" tvg-logo="http://epg.it999.ru/img2/3181.png" group-title="欧美",FemJoy

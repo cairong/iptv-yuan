@@ -407,17 +407,17 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/18076/inde
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/11068/index.m3u8
 #EXTINF:-1 tvg-id="43882" tvg-name="Шaлун TB" tvg-logo="http://list.8v8i8p.com/img/channel_icons/43882.png" group-title="欧美",Шaлун TB
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/43882/hls/pl.m3u8
-#EXTINF:1 tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="Fashion TV",Fashion TV UHD
+#EXTINF:1 tvg-id="2748" tvg-name="Fashion TV UHD" tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="Fashion TV",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="Fashion TV",Fashion TV PG16
+#EXTINF:-1 tvg-id="2491" tvg-name="Fashion TV PG16" tvg-logo="http://epg.it999.ru/img2/2491.png" group-title="Fashion TV",Fashion TV PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-id="2748" tvg-name="FashionTV Midnight Secrets" tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="Fashion TV",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="Fashion TV",Fashion TV Paris
+#EXTINF:-1 tvg-id="2491" tvg-name="Fashion TV Paris" tvg-logo="http://epg.it999.ru/img2/2491.png" group-title="Fashion TV",Fashion TV Paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="Fashion TV",Fashion TV
+#EXTINF:-1 tvg-id="2491" tvg-name="Fashion TV" tvg-logo="http://epg.it999.ru/img2/2491.png" group-title="Fashion TV",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="http://epg.it999.ru/img2/2748.png" group-title="Fashion TV",FASHION TV
+#EXTINF:0 tvg-id="2491" tvg-name="FASHION TV" tvg-logo="http://epg.it999.ru/img2/2491.png" group-title="Fashion TV",FASHION TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="4978" tvg-name="XXXINTERRACIAL TV" tvg-logo="http://epg.it999.ru/img2/4978.png" group-title="Red TV",XXXINTERRACIAL TV
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/12171/index.m3u8

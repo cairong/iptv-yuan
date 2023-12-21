@@ -329,60 +329,74 @@ http://ott.mobaibox.com/PLTV/3/224/3221228456/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 group-title="咪咕",未知电视剧
 http://ott.mobaibox.com/PLTV/4/224/3221227539/index.m3u8
-#EXTINF:-1 group-title="港澳台",香港 耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",东森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",澳门 Macau
-http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="莲花卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Lotus.png" group-title="港澳台",莲花卫视
-http://live.cooltv.top/tv/lotus.php
-#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix2.png" group-title="港澳台",凤凰资讯
-http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix1.png" group-title="港澳台",凤凰中文
-http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix3.png" group-title="港澳台",凤凰香港
-http://php.17186.eu.org/phtv/fhhk.m3u8
-#EXTINF:-1 tvg-id="445" tvg-name="RTHK32" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/RTHK32.png" group-title="港澳台",RTHK32
-http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="450" tvg-name="HOY77" tvg-logo="https://qx.erw.cc/wutu.png" group-title="港澳台",HOY77
 http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="223" tvg-name="无线财经" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB5.png" group-title="港澳台",无线财经
-https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB1.png" group-title="港澳台",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB4.png" group-title="港澳台",无线新闻
-https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="191" tvg-name="澳亚卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Aoya.png" group-title="港澳台",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTV.png" group-title="港澳台",中视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="442" tvg-name="华视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTS.png" group-title="港澳台",华视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-id="441" tvg-name="民视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/FTV.png" group-title="港澳台",民视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-id="440" tvg-name="台视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TTV.png" group-title="港澳台",台视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="港澳台",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="港澳台",KTSF26
+http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
+#EXTINF:-1 tvg-id="445" tvg-name="RTHK32" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/RTHK32.png" group-title="港澳台",RTHK32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS4.png" group-title="港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="港澳台",三立新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-id="6072" tvg-name="三立财经新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="港澳台",三立财经新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="港澳台",东森中国台
+http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="港澳台",中天亚洲台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="港澳台",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTV.png" group-title="港澳台",中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 tvg-id="443" tvg-name="中视新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="港澳台",中视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix1.png" group-title="港澳台",凤凰中文
+http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix2.png" group-title="港澳台",凤凰资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="284" tvg-name="凤凰香港" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix3.png" group-title="港澳台",凤凰香港
+http://php.17186.eu.org/phtv/fhhk.m3u8
+#EXTINF:-1 tvg-id="442" tvg-name="华视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTS.png" group-title="港澳台",华视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="港澳台",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
+#EXTINF:-1 tvg-id="440" tvg-name="台视新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="港澳台",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB4.png" group-title="港澳台",无线新闻
+https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="无线财经" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB5.png" group-title="港澳台",无线财经
+https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="441" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="港澳台",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",汉天TV
+http://38.64.72.148:80/hls/modn/list/4025/playlist.m3u8
+#EXTINF:-1 tvg-id="191" tvg-name="澳亚卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Aoya.png" group-title="港澳台",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi6.png" group-title="港澳台",澳门 Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB1.png" group-title="港澳台",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="189" tvg-name="翡翠台" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB1.png" group-title="港澳台",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h02
+#EXTINF:-1 tvg-id="265" tvg-name="莲花卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Lotus.png" group-title="港澳台",莲花卫视
+http://live.cooltv.top/tv/lotus.php
+#EXTINF:-1 group-title="港澳台",长城精品
+http://38.64.72.148:80/hls/modn/list/4008/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",香港 耀才财经
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 group-title="4K+",8K测试 48M4320
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="4K+",纯享4K 12M2160

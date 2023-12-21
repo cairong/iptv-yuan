@@ -167,6 +167,14 @@ http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="数字付费",全纪实
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="数字付费",欢笑剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="数字付费",游戏风云
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
+#EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="数字付费",都市剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="劲爆体育" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jbty.png" group-title="数字付费",劲爆体育
 http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
 #EXTINF:-1 tvg-id="424" tvg-name="中国交通" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zgjt.png" group-title="数字付费",中国交通

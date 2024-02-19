@@ -94,7 +94,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Liaoning.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228310/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="内蒙古卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Neimeng.png" group-title="卫视",内蒙古卫视
-http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF:-1 tvg-id="108" tvg-name="宁夏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Ningxia.png" group-title="卫视",宁夏卫视
 http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 #EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Qinghai.png" group-title="卫视",青海卫视
@@ -120,13 +120,13 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Yunnan.png" group-title="卫视",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="大湾区卫视" tvg-logo="https://pic.erw.cc/epglogo/guangdong/Guangdong10.png" group-title="卫视",大湾区卫视
-http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/
+https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/anduostv/jsdwzbwsjghjkl18.png" group-title="卫视",安多卫视
 http://223.110.241.139:6610/gitv/live1/G_ANDUO/G_ANDUO/
 #EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Kangba.png" group-title="卫视",康巴卫视
 http://223.110.241.139:6610/gitv/live1/G_KANGBA/G_KANGBA/
 #EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Bingtuan.png" group-title="卫视",兵团卫视
-http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
+http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://pic.erw.cc/epglogo/hainan/Sansha.png" group-title="卫视",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://pic.erw.cc/epglogo/shanxi/Nonglin.png" group-title="卫视",农林卫视

@@ -170,11 +170,11 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://pic.erw.cc/epglogo/shuzi/Qiusuo4.png" group-title="数字付费",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC2.png" group-title="数字付费",CHC家庭影院
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+http://111.20.35.103:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC1.png" group-title="数字付费",CHC高清电影
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://111.20.35.103:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="数字付费",乐游
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="数字付费",欢笑剧场

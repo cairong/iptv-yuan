@@ -153,15 +153,15 @@ http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
 http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
 #EXTINF:-1 tvg-id="459" tvg-name="南京十八" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-7.png" group-title="江苏",南京十八
 http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
-#EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/wxxwzh.png" group-title="江苏",无锡新闻综合
+#EXTINF:-1 tvg-id="493" tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/wxxwzh.png" group-title="江苏",无锡新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="江苏",无锡娱乐
+#EXTINF:-1 tvg-id="494" tvg-logo="" group-title="江苏",无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="江苏",无锡都市资讯
+#EXTINF:-1 tvg-id="495" tvg-logo="" group-title="江苏",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="江苏",无锡生活
+#EXTINF:-1 tvg-id="496" tvg-logo="" group-title="江苏",无锡生活
 http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="江苏",无锡经济
+#EXTINF:-1 tvg-id="497" tvg-logo="" group-title="江苏",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://pic.erw.cc/epglogo/shuzi/Qiusuo3.png" group-title="数字付费",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8

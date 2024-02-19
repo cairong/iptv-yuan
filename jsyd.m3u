@@ -131,6 +131,8 @@ http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://pic.erw.cc/epglogo/shanxi/Nonglin.png" group-title="卫视",农林卫视
 http://223.110.241.139:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+#EXTINF:-1 tvg-id="417" tvg-name="黄河卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Huanghe.png" group-title="卫视",黄河卫视
+http://118.77.123.203:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="216" tvg-name="江苏教育" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu7.png" group-title="江苏",江苏教育
 http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
 #EXTINF:-1 tvg-id="214" tvg-name="江苏城市" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu2.png" group-title="江苏",江苏城市
@@ -176,7 +178,7 @@ http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
 http://111.20.35.103:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="数字付费",乐游
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+http://1.30.178.41:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjchd.png" group-title="数字付费",欢笑剧场4K
 http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="数字付费",游戏风云

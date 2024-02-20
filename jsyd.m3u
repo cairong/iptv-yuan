@@ -159,9 +159,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="494" group-title="江苏",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 tvg-id="496" group-title="江苏",无锡生活
+#EXTINF:-1 tvg-id="497" group-title="江苏",无锡生活
 http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-id="497" group-title="江苏",无锡经济
+#EXTINF:-1 tvg-id="496" group-title="江苏",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 group-title="4K+",8K测试 48M4320
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8

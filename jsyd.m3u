@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.erw.cc/all.xml.gz"
+﻿#EXTM3U x-tvg-url="http://epg.erw.cc/all.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV2
@@ -363,7 +363,7 @@ http://39.134.66.110/PLTV/88888888/224/3221225642/index.m3u8
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",华语影院
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",电竞天堂
+#EXTINF:-1 tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E7%94%B5%E7%AB%9E%E5%A4%A9%E5%A0%82.png" group-title="BesTV",电竞天堂
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/djtt8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",热门综艺
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8

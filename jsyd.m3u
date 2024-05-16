@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="http://epg.erw.cc/all.xml.gz"
+﻿#EXTM3U x-tvg-url="https://epg.erw.cc/allcc.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV2

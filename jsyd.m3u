@@ -207,6 +207,8 @@ http://183.207.248.71/gitv/live1/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ
 http://222.71.189.186:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="196" tvg-name="纪实人文" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsrw.png" group-title="数字付费",纪实人文
 http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi
+#EXTINF:-1 tvg-id="241" tvg-name="书画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/sh.png" group-title="数字付费",书画
+http://117.114.153.26:8180/TV00000000000000000133@HHZT
 #EXTINF:-1 tvg-id="262" tvg-name="中华美食" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhms.png" group-title="数字付费",中华美食
 http://223.110.241.139:6610/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
 #EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVbqkj.png" group-title="数字付费",兵器科技

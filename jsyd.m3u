@@ -533,8 +533,6 @@ http://117.114.153.26:8180/TV00000000000000000075@HHZT
 http://117.114.153.26:8180/TV00000000000000000076@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/325.png" group-title="境外电视",Discovery
 http://117.114.153.26:8180/TV00000000000000000077@HHZT
-#EXTINF:-1 group-title="境外电视",澳亚卫视
-http://117.114.153.26:8180/TV00000000000000000082@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/8038.png" group-title="境外电视",CNN
 http://117.114.153.26:8180/TV00000000000000000108@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/3727.png" group-title="境外电视",CINEMAX

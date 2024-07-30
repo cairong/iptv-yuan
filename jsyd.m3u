@@ -187,7 +187,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
 http://111.20.35.103:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="数字付费",CHC影迷电影
+#EXTINF:-1 tvg-id="182" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC4.png" group-title="数字付费",CHC影迷电影
 http://117.114.153.26:8180/TV00000000000000000195@HHZT
 #EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC1.png" group-title="数字付费",CHC高清电影
 http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -403,11 +403,11 @@ http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bb
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="BesTV",戏曲精选
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xqjx8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/zypd.png" group-title="咪咕",置业频道
+#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/zypd.png" group-title="咪咕",置业频道
 http://223.110.241.139:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
 #EXTINF:-1 group-title="咪咕",新娱乐
 http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
-#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/jtlc.png" group-title="咪咕",家庭理财
+#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/jtlc.png" group-title="咪咕",家庭理财
 http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
 #EXTINF:-1 group-title="咪咕",职业指南
 http://223.110.241.139:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/

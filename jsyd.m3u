@@ -519,13 +519,13 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 http://117.114.153.26:8180/TV00000000000000000067@HHZT
 #EXTINF:-1 group-title="境外电视",Star Sports
 http://117.114.153.26:8180/TV00000000000000000070@HHZT
-#EXTINF:-1 group-title="境外电视",星空卫视
+#EXTINF:-1 tvg-id="518" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Startv.png" group-title="境外电视",星空卫视
 http://117.114.153.26:8180/TV00000000000000000071@HHZT
-#EXTINF:-1 group-title="境外电视",凤凰电影
+#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix4.png" group-title="境外电视",凤凰电影
 http://117.114.153.26:8180/TV00000000000000000072@HHZT
-#EXTINF:-1 group-title="境外电视",TVB星河
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="境外电视",TVB星河
 http://117.114.153.26:8180/TV00000000000000000073@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3756.png" group-title="境外电视",HBO
+#EXTINF:-1 tvg-id="512" tvg-logo="http://epg.one/img2/3756.png" group-title="境外电视",HBO
 http://117.114.153.26:8180/TV00000000000000000074@HHZT
 #EXTINF:-1 group-title="境外电视",Star Movies
 http://117.114.153.26:8180/TV00000000000000000075@HHZT
@@ -535,7 +535,7 @@ http://117.114.153.26:8180/TV00000000000000000076@HHZT
 http://117.114.153.26:8180/TV00000000000000000077@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/8038.png" group-title="境外电视",CNN
 http://117.114.153.26:8180/TV00000000000000000108@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3727.png" group-title="境外电视",CINEMAX
+#EXTINF:-1 tvg-id="516" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/cinemax.png" group-title="境外电视",CINEMAX
 http://117.114.153.26:8180/TV00000000000000000109@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2128.png" group-title="境外电视",CNBC
 http://117.114.153.26:8180/TV00000000000000000110@HHZT

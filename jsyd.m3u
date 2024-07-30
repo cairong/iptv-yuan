@@ -525,29 +525,29 @@ http://117.114.153.26:8180/TV00000000000000000071@HHZT
 http://117.114.153.26:8180/TV00000000000000000072@HHZT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="境外电视",TVB星河
 http://117.114.153.26:8180/TV00000000000000000073@HHZT
-#EXTINF:-1 tvg-id="512" tvg-logo="http://epg.one/img2/3756.png" group-title="境外电视",HBO
+#EXTINF:-1 tvg-id="512" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="境外电视",HBO
 http://117.114.153.26:8180/TV00000000000000000074@HHZT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarMovies.png" group-title="境外电视",Star Movies
 http://117.114.153.26:8180/TV00000000000000000075@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/3750.png" group-title="境外电视",AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="境外电视",AXN
 http://117.114.153.26:8180/TV00000000000000000076@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/325.png" group-title="境外电视",Discovery
 http://117.114.153.26:8180/TV00000000000000000077@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/8038.png" group-title="境外电视",CNN
 http://117.114.153.26:8180/TV00000000000000000108@HHZT
-#EXTINF:-1 tvg-id="516" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/cinemax.png" group-title="境外电视",CINEMAX
+#EXTINF:-1 tvg-id="516" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="境外电视",CINEMAX
 http://117.114.153.26:8180/TV00000000000000000109@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2128.png" group-title="境外电视",CNBC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNBCAsia.png" group-title="境外电视",CNBC
 http://117.114.153.26:8180/TV00000000000000000110@HHZT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarSports.png" group-title="境外电视",Star Sports2
 http://117.114.153.26:8180/TV00000000000000000111@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/102.png" group-title="境外电视",国家地理
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NATGEO.png" group-title="境外电视",国家地理
 http://117.114.153.26:8180/TV00000000000000000112@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/921.png" group-title="境外电视",NHK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png" group-title="境外电视",NHK
 http://117.114.153.26:8180/TV00000000000000000161@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8165.png" group-title="境外电视",TV5 MONDE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="境外电视",TV5MONDE
 http://117.114.153.26:8180/TV00000000000000000162@HHZT
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8351.png" group-title="境外电视",Bloomberg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png" group-title="境外电视",Bloomberg
 http://117.114.153.26:8180/TV00000000000000000163@HHZT
-#EXTINF:-1 group-title="境外电视",KBS
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/KBSWorld.png" group-title="境外电视",KBS
 http://117.114.153.26:8180/TV00000000000000000166@HHZT

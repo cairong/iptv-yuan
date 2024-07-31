@@ -186,7 +186,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjc4k.png" group-title="4K+",欢笑剧场4K
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
-http://117.114.153.26:8180/TV00000000000000000093@HHZT
+http://123.10.79.77:808/hls/97/index.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC2.png" group-title="数字付费",CHC家庭影院
 http://123.10.79.77:808/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="182" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC4.png" group-title="数字付费",CHC影迷电影

@@ -71,6 +71,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
 http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/
 #EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Gansu.png" group-title="卫视",甘肃卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="240" tvg-logo="https://pic.erw.cc/epglogo/weishi/HKS.png" group-title="卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="广东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangdong.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228312/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-name="广西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guangxi.png" group-title="卫视",广西卫视
@@ -100,7 +102,7 @@ http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
 #EXTINF:-1 tvg-id="104" tvg-name="青海卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Qinghai.png" group-title="卫视",青海卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shanxi.png" group-title="卫视",陕西卫视
-http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/
+http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shanxi_.png" group-title="卫视",山西卫视
 http://118.77.123.203:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shenzhen.png" group-title="卫视",深圳卫视
@@ -114,7 +116,7 @@ http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
 #EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Xiamen.png" group-title="卫视",厦门卫视
 http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Xinjiang.png" group-title="卫视",新疆卫视
-http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="延边卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Yanbian.png" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="云南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Yunnan.png" group-title="卫视",云南卫视

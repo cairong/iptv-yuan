@@ -555,3 +555,9 @@ http://117.114.153.26:8180/TV00000000000000000162@HHZT
 http://117.114.153.26:8180/TV00000000000000000163@HHZT
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/KBSWorld.png" group-title="境外电视",KBS
 http://117.114.153.26:8180/TV00000000000000000166@HHZT
+#EXTINF:-1 tvg-id="391" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai03.png" group-title="睛彩",睛彩篮球
+http://ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/index.m3u8
+#EXTINF:-1 tvg-id="390" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai04.png" group-title="睛彩",睛彩竞技
+http://ottrrs.hl.chinamobile.com/hlj/yd/0/3221226472/index.m3u8
+#EXTINF:-1 group-title="睛彩",睛彩青少
+http://ottrrs.hl.chinamobile.com/hlj/yd/0/3221226508/index.m3u8

@@ -227,7 +227,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031112/index.m3u8?
 http://117.114.153.26:8180/TV00000000000000000133@HHZT
 #EXTINF:-1 tvg-id="170" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai5.png" group-title="数字付费",五星体育
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="6610" tvg-name="京视剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg" group-title="数字付费",京视剧场
+#EXTINF:-1 tvg-id="6610" tvg-name="京视剧场" tvg-logo="https://live.fanmingming.com/tv/京视剧场.png" group-title="数字付费",京视剧场
 http://223.110.241.139:6610/gitv/live1/G_JINGJU/G_JINGJU/
 #EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVbqkj.png" group-title="数字付费",兵器科技
 http://223.110.241.139:6610/gitv/live1/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ/
@@ -473,6 +473,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-id="6072" tvg-name="三立财经新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/SET3.png" group-title="港澳台",三立财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 tvg-id="451" group-title="港澳台",HOY咨询台
+http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 group-title="港澳台",东森中国台
 http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",东森美洲

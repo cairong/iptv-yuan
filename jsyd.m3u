@@ -130,7 +130,7 @@ http://223.110.241.139:6610/gitv/live1/G_KANGBA/G_KANGBA/
 #EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Bingtuan.png" group-title="卫视",兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 tvg-id="289" tvg-name="三沙卫视" tvg-logo="https://pic.erw.cc/epglogo/hainan/Sansha.png" group-title="卫视",三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+http://ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://pic.erw.cc/epglogo/shanxi/Nonglin.png" group-title="卫视",农林卫视
 http://223.110.241.139:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
 #EXTINF:-1 tvg-id="417" tvg-name="黄河卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Huanghe.png" group-title="卫视",黄河卫视

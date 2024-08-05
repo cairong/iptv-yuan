@@ -104,7 +104,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="陕西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shanxi.png" group-title="卫视",陕西卫视
 http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="109" tvg-name="山西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shanxi_.png" group-title="卫视",山西卫视
-http://118.77.123.203:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 tvg-id="83" tvg-name="深圳卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shenzhen.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan.png" group-title="卫视",四川卫视
@@ -112,7 +112,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Tianjin.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228416/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="西藏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Xizang.png" group-title="卫视",西藏卫视
-http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
+http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Xiamen.png" group-title="卫视",厦门卫视
 http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
 #EXTINF:-1 tvg-id="105" tvg-name="新疆卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Xinjiang.png" group-title="卫视",新疆卫视
@@ -124,7 +124,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="大湾区卫视" tvg-logo="https://pic.erw.cc/epglogo/guangdong/Guangdong10.png" group-title="卫视",大湾区卫视
 https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视",安多卫视
-http://223.110.241.139:6610/gitv/live1/G_ANDUO/G_ANDUO/
+http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="康巴卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Kangba.png" group-title="卫视",康巴卫视
 http://223.110.241.139:6610/gitv/live1/G_KANGBA/G_KANGBA/
 #EXTINF:-1 tvg-id="110" tvg-name="兵团卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Bingtuan.png" group-title="卫视",兵团卫视
@@ -204,13 +204,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4kjs/xbyxtbcx.png" group-title="4K+",纯享4K 30M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xindm.png" group-title="数字付费",新动漫
-http://113.195.13.183:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+http://php.jdshipin.com:8880/cqyx.php?id=dongman
 #EXTINF:-1 tvg-id="229" tvg-name="武术世界" tvg-logo="https://pic.erw.cc/epglogo/shuzi/WUSHUSHIJIE.png" group-title="数字付费",武术世界
 http://113.195.13.183:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="230" tvg-name="梨园" tvg-logo="https://pic.erw.cc/epglogo/shuzi/lypd.png" group-title="数字付费",梨园
 http://113.195.13.183:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="239" tvg-name="四海钓鱼" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shdy.png" group-title="数字付费",四海钓鱼
-http://113.195.13.183:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
+http://php.jdshipin.com:8880/cqyx.php?id=diaoyu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="数字付费",财富天下
 http://117.114.153.26:8180/TV00000000000000000043@HHZT
 #EXTINF:-1 group-title="数字付费",车迷频道
@@ -219,10 +219,16 @@ http://117.114.153.26:8180/TV00000000000000000055@HHZT
 http://117.114.153.26:8180/TV00000000000000000092@HHZT
 #EXTINF:-1 tvg-id="241" tvg-name="书画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shpd.png" group-title="数字付费",书画
 http://117.114.153.26:8180/TV00000000000000000133@HHZT
+#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/tcpd.png" group-title="数字付费",陶瓷
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
 #EXTINF:-1 tvg-id="182" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC4.png" group-title="数字付费",CHC影迷电影
 http://117.114.153.26:8180/TV00000000000000000195@HHZT
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
 http://123.10.79.77:808/hls/97/index.m3u8
+#EXTINF:-1 tvg-id="454" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905极限反转
+http://php.jdshipin.com:8880/1905.php?id=1905dy
+#EXTINF:-1 tvg-id="418" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905环球经典
+http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="182" tvg-name="CHC高清电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC1.png" group-title="数字付费",CHC高清电影
 http://123.10.79.77:808/hls/98/index.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC2.png" group-title="数字付费",CHC家庭影院

@@ -139,7 +139,7 @@ http://118.77.123.203:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=
 http://ott.mobaibox.com/PLTV/4/224/3221228613/index.m3u8
 #EXTINF:-1 tvg-id="214" tvg-name="江苏城市" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu2.png" group-title="江苏",江苏城市
 http://ott.mobaibox.com/PLTV/4/224/3221228734/index.m3u8
-#EXTINF:-1 tvg-id="219" tvg-name="江苏公共新闻" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu1.png" group-title="江苏",江苏公共新闻
+#EXTINF:-1 tvg-id="219" tvg-name="江苏公共新闻" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu1.png" group-title="江苏",江苏新闻
 http://ott.mobaibox.com/PLTV/4/224/3221228743/index.m3u8
 #EXTINF:-1 tvg-id="217" tvg-name="江苏影视" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu4.png" group-title="江苏",江苏影视
 http://ott.mobaibox.com/PLTV/4/224/3221228728/index.m3u8

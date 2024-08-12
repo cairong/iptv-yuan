@@ -415,32 +415,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000005000266013/index.m3u8?
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="536" tvg-logo="https://pic.erw.cc/epglogo/NewTV/NewTV34.png" group-title="NewTV",魅力潇湘
 http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",看天下精选
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",华语影院
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/电竞天堂.png" group-title="BesTV",电竞天堂
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/djtt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",热门综艺
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",健康养生
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jkys8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",百变课堂
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbkt8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",谍战剧场
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",全球大片
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",热门剧场
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",青春动漫
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcdm8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",宝宝动画
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbdh8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/.png" group-title="BesTV",星光影院
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="BesTV",戏曲精选
-http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xqjx8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/zypd.png" group-title="咪咕",置业频道
 http://223.110.241.139:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
 #EXTINF:-1 group-title="咪咕",新娱乐

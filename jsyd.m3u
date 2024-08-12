@@ -133,8 +133,6 @@ http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?
 http://ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
 #EXTINF:-1 tvg-id="261" tvg-name="农林卫视" tvg-logo="https://pic.erw.cc/epglogo/shanxi/Nonglin.png" group-title="卫视",农林卫视
 http://223.110.241.139:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
-#EXTINF:-1 tvg-id="417" tvg-name="黄河卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Huanghe.png" group-title="卫视",黄河卫视
-http://118.77.123.203:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" tvg-logo="https://pic.erw.cc/epglogo/shuzi/ymkt.png" group-title="江苏",优漫卡通
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-6.png" group-title="江苏",南京信息
@@ -194,7 +192,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 #EXTINF:-1 group-title="4K+",未知电影台
 http://ott.mobaibox.com/PLTV/4/224/3221228615/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjc4k.png" group-title="4K+",欢笑剧场4K
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000009455/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000009455
+http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 16M2160
@@ -207,6 +205,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 http://php.jdshipin.com:8880/cqyx.php?id=dongman
 #EXTINF:-1 tvg-id="229" tvg-name="武术世界" tvg-logo="https://pic.erw.cc/epglogo/shuzi/WUSHUSHIJIE.png" group-title="数字付费",武术世界
 http://113.195.13.183:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="数字付费",京东
+http://ott.mobaibox.com/PLTV/1/224/3221228591/index.m3u8
 #EXTINF:-1 tvg-id="230" tvg-name="梨园" tvg-logo="https://pic.erw.cc/epglogo/shuzi/lypd.png" group-title="数字付费",梨园
 http://113.195.13.183:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="239" tvg-name="四海钓鱼" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shdy.png" group-title="数字付费",四海钓鱼

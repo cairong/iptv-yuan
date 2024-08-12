@@ -355,7 +355,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/setvhd/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="172" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xsj.png" group-title="数字付费",新视觉
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="数字付费",收藏天下
+#EXTINF:-1 tvg-id="426" tvg-logo="https://pic.erw.cc/epglogo/shuzi/sctx.png" group-title="数字付费",收藏天下
 http://taoa.x3322.net:45678/cqyx.php?id=soucang
 #EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hmdh.png" group-title="NewTV",黑莓动画
 http://223.110.241.139:6610/cntv/live1/donghuawg/donghuawg

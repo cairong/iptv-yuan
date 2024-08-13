@@ -339,7 +339,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/index.m3u8?channel-id=be
 http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="数字付费",财富天下
 http://117.114.153.26:8180/TV00000000000000000043@HHZT
-#EXTINF:-1 group-title="数字付费",车迷频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="数字付费",车迷频道
 http://117.114.153.26:8180/TV00000000000000000055@HHZT
 #EXTINF:-1 tvg-id="178" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="数字付费",都市剧场
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000004412/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000004412

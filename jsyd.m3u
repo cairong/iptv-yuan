@@ -182,7 +182,7 @@ http://www.17888.fun:10000//udp/239.45.3.107:5140
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png" group-title="4K+",爱上4K
 http://ikuai.zlsip.top:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjc4k.png" group-title="4K+",欢笑剧场4K
-http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+http://58.37.132.119:8888/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-name="4K修复" group-title="4K+",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 group-title="4K+",8K测试 48M4320

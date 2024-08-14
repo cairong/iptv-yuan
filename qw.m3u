@@ -1,22 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV1
 http://117.114.153.26:8180/TV00000000000000000099@HHZT
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV10.png" group-title="央视",CCTV10
-http://117.114.153.26:8180/TV00000000000000000143@HHZT
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV11.png" group-title="央视",CCTV11
-http://117.114.153.26:8180/TV00000000000000000002@HHZT
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV12.png" group-title="央视",CCTV12
-http://117.114.153.26:8180/TV00000000000000000144@HHZT
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV13.png" group-title="央视",CCTV13
-http://117.114.153.26:8180/TV00000000000000000003@HHZT
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV14.png" group-title="央视",CCTV14
-http://117.114.153.26:8180/TV00000000000000000005@HHZT
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV15.png" group-title="央视",CCTV15
-http://117.114.153.26:8180/TV00000000000000000004@HHZT
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV16.png" group-title="央视",CCTV16
-http://117.114.153.26:8180/TV00000000000000000136@HHZT
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV17.png" group-title="央视",CCTV17
-http://117.114.153.26:8180/TV00000000000000000021@HHZT
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV2
 http://117.114.153.26:8180/TV00000000000000000140@HHZT
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV3.png" group-title="央视",CCTV3
@@ -35,8 +19,22 @@ http://117.114.153.26:8180/TV00000000000000000141@HHZT
 http://117.114.153.26:8180/TV00000000000000000106@HHZT
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV9.png" group-title="央视",CCTV9
 http://117.114.153.26:8180/TV00000000000000000142@HHZT
-#EXTINF:-1 tvg-id="1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV中视购物
-http://117.114.153.26:8180/TV00000000000000000128@HHZT
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV10.png" group-title="央视",CCTV10
+http://117.114.153.26:8180/TV00000000000000000143@HHZT
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV11.png" group-title="央视",CCTV11
+http://117.114.153.26:8180/TV00000000000000000002@HHZT
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV12.png" group-title="央视",CCTV12
+http://117.114.153.26:8180/TV00000000000000000144@HHZT
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV13.png" group-title="央视",CCTV13
+http://117.114.153.26:8180/TV00000000000000000003@HHZT
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV14.png" group-title="央视",CCTV14
+http://117.114.153.26:8180/TV00000000000000000005@HHZT
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV15.png" group-title="央视",CCTV15
+http://117.114.153.26:8180/TV00000000000000000004@HHZT
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV16.png" group-title="央视",CCTV16
+http://117.114.153.26:8180/TV00000000000000000136@HHZT
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV17.png" group-title="央视",CCTV17
+http://117.114.153.26:8180/TV00000000000000000021@HHZT
 #EXTINF:-1 tvg-id="151" tvg-name="CETV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-1.png" group-title="央视",CETV1
 http://117.114.153.26:8180/TV00000000000000000149@HHZT
 #EXTINF:-1 tvg-id="153" tvg-name="CETV3" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-3.png" group-title="央视",CETV3
@@ -191,8 +189,6 @@ http://117.114.153.26:8180/TV00000000000000000163@HHZT
 http://117.114.153.26:8180/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-id="191" tvg-name="澳亚卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Aoya.png" group-title="境外电视",澳亚卫视
 http://117.114.153.26:8180/TV00000000000000000117@HHZT
-#EXTINF:-1 tvg-id="191" tvg-name="澳亚卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Aoya.png" group-title="境外电视",澳亚卫视
-http://117.114.153.26:8180/TV00000000000000000082@HHZT
 #EXTINF:-1 tvg-id="137" tvg-name="北京体育休闲" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing6.png" group-title="北京本地",北京体育休闲
 http://117.114.153.26:8180/TV00000000000000000146@HHZT
 #EXTINF:-1 tvg-id="131" tvg-name="北京影视" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing4.png" group-title="北京本地",北京影视

@@ -189,6 +189,16 @@ http://117.114.153.26:8180/TV00000000000000000163@HHZT
 http://117.114.153.26:8180/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-id="191" tvg-name="澳亚卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Aoya.png" group-title="境外电视",澳亚卫视
 http://117.114.153.26:8180/TV00000000000000000117@HHZT
+#EXTINF:-1 tvg-id="493" tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/wxxwzh.png" group-title="北京本地",无锡新闻综合
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="495" group-title="北京本地",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="494" group-title="北京本地",无锡都市资讯
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 tvg-id="497" group-title="北京本地",无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 tvg-id="496" group-title="北京本地",无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-id="137" tvg-name="北京体育休闲" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing6.png" group-title="北京本地",北京体育休闲
 http://117.114.153.26:8180/TV00000000000000000146@HHZT
 #EXTINF:-1 tvg-id="131" tvg-name="北京影视" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing4.png" group-title="北京本地",北京影视

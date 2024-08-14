@@ -113,6 +113,8 @@ http://117.114.153.26:8180/TV00000000000000000156@HHZT
 http://117.114.153.26:8180/TV00000000000000000039@HHZT
 #EXTINF:-1 tvg-id="99" tvg-name="甘肃卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Gansu.png" group-title="卫视",甘肃卫视
 http://117.114.153.26:8180/TV00000000000000000014@HHZT
+#EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjc4k.png" group-title="数字付费",欢笑剧场4K
+http://58.37.132.119:8888/udp/239.45.1.4:5140
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
 http://117.114.153.26:8180/TV00000000000000000093@HHZT
 #EXTINF:-1 tvg-id="182" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC4.png" group-title="数字付费",CHC影迷电影

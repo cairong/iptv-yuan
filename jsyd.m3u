@@ -171,6 +171,18 @@ http://ott.mobaibox.com/PLTV/4/224/3221228613/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228743/index.m3u8
 #EXTINF:-1 tvg-id="218" tvg-name="江苏综艺" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu3.png" group-title="江苏",江苏综艺
 http://ott.mobaibox.com/PLTV/4/224/3221228731/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV4k.png" group-title="4K+",CCTV4K超高清
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 group-title="4K+",百事通4K儿童
+http://www.17888.fun:10000//rtp/239.45.1.1:5140
+#EXTINF:-1 group-title="4K+",百事通4K纪实
+http://www.17888.fun:10000//rtp/239.45.1.10:5140
+#EXTINF:-1 group-title="4K+",百事通4K电影
+http://www.17888.fun:10000//udp/239.45.3.107:5140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png" group-title="4K+",爱上4K
+http://ikuai.zlsip.top:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjc4k.png" group-title="4K+",欢笑剧场4K
+http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-name="4K修复" group-title="4K+",4K修复 7M2160HEVC
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 group-title="4K+",8K测试 48M4320
@@ -185,23 +197,19 @@ http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV3.png" group-title="4K+",CCTV3-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV4k.png" group-title="4K+",CCTV4K超高清
-http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5.png" group-title="4K+",CCTV5-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 group-title="4K+",QQ音乐台
 http://ott.mobaibox.com/PLTV/4/224/3221228641/index.m3u8
 #EXTINF:-1 group-title="4K+",未知电影台
 http://ott.mobaibox.com/PLTV/4/224/3221228615/index.m3u8
-#EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjc4k.png" group-title="4K+",欢笑剧场4K
-http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 16M2160
+#EXTINF:-1 tvg-id="346" tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 16M2160
+#EXTINF:-1 tvg-id="346" tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 16M2160
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 25M2160HDR
+#EXTINF:-1 tvg-id="346" tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 25M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 30M2160HDR
+#EXTINF:-1 tvg-id="346" tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 30M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="454" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905极限反转
 http://php.jdshipin.com:8880/1905.php?id=1905dy

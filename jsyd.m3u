@@ -9,7 +9,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228392/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228307/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5.png" group-title="央视",CCTV5
 http://ott.mobaibox.com/PLTV/4/224/3221227401/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5plus" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5+.png" group-title="央视",CCTV5plus
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV5+.png" group-title="央视",CCTV5plus
 http://ott.mobaibox.com/PLTV/3/224/3221228277/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV6.png" group-title="央视",CCTV6
 http://ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8
@@ -37,7 +37,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228642/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="CGTN纪录" tvg-logo="https://pic.erw.cc/epglogo/cctv/CGTNDoc.png" group-title="央视",CGTN纪录
 http://223.110.241.139:6610/cntv/live1/n-cctv-9/n-cctv-9
-#EXTINF:-1 tvg-id="25" tvg-name="CGTN新闻" tvg-logo="https://pic.erw.cc/epglogo/cctv/CGTN.png" group-title="央视",CGTN新闻
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://pic.erw.cc/epglogo/cctv/CGTN.png" group-title="央视",CGTN新闻
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 #EXTINF:-1 tvg-id="151" tvg-name="CETV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-1.png" group-title="央视",CETV1
 http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/
@@ -281,7 +281,7 @@ http://php.jdshipin.com:8880/cqyx.php?id=diaoyu
 http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 #EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVystq.png" group-title="数字付费",央视台球
 http://ott.mobaibox.com/PLTV/4/224/3221228683/index.m3u8
-#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",央视文化精品
+#EXTINF:-1 tvg-id="6569" tvg-name="央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",央视文化精品
 http://ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="女性时尚" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVnxss.png" group-title="数字付费",女性时尚
 http://ott.mobaibox.com/PLTV/4/224/3221228674/index.m3u8

@@ -216,11 +216,11 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="418" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905环球经典
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
-http://117.114.153.26:8180/TV00000000000000000093@HHZT
+http://58.59.47.242:8180/TV00000000000000000030@HHZT
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC2.png" group-title="数字付费",CHC家庭影院
-http://taoa.x3322.net:45678/cqyx.php?id=chcjtyyHD
-#EXTINF:-1 tvg-id="182" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC4.png" group-title="数字付费",CHC影迷电影
-http://117.114.153.26:8180/TV00000000000000000094@HHZT
+http://58.59.47.242:8180/TV00000000000000000029@HHZT
+#EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC4.png" group-title="数字付费",CHC影迷电影
+http://58.59.47.242:8180/TV00000000000000000031@HHZT
 #EXTINF:-1 tvg-id="285" tvg-logo="https://pic.erw.cc/epglogo/shuzi/qcxj.png" group-title="数字付费",七彩戏剧
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="197" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai4.png" group-title="数字付费",上海外语

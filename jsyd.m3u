@@ -139,13 +139,13 @@ http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-6.png" group-title="江苏",南京信息
 http://ott.mobaibox.com/PLTV/4/224/3221227730/index.m3u8
-#EXTINF:-1 tvg-id="459" tvg-name="南京十八" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-7.png" group-title="江苏",南京十八
+#EXTINF:-1 tvg-id="459" tvg-name="南京十八生活" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-7.png" group-title="江苏",南京十八生活
 http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
-#EXTINF:-1 tvg-id="460" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-4.png" group-title="江苏",南京少儿
+#EXTINF:-1 tvg-id="460" tvg-name="南京少儿" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-4.png" group-title="江苏",南京少儿
 http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-id="456" tvg-name="南京教科" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-2.png" group-title="江苏",南京教科
+#EXTINF:-1 tvg-id="456" tvg-name="南京教育科技" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-2.png" group-title="江苏",南京教育科技
 http://ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-id="458" group-title="江苏",南京文旅纪录
+#EXTINF:-1 tvg-id="458" tvg-name="南京文旅纪录" group-title="江苏",南京文旅纪录
 http://ott.mobaibox.com/PLTV/4/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-id="455" tvg-name="南京新闻综合" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-1.png" group-title="江苏",南京新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221227213/index.m3u8
@@ -211,9 +211,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="346" tvg-logo="https://pic.erw.cc/epglogo/shuzi/cx4k.png" group-title="4K+",纯享4K 30M2160HDR
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-id="454" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905极限反转
+#EXTINF:-1 tvg-id="454" tvg-name="力量影院" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905力量影院
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 tvg-id="418" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905环球经典
+#EXTINF:-1 tvg-id="418" tvg-name="环球经典" tvg-logo="https://pic.erw.cc/epglogo/shuzi/1905dy.png" group-title="数字付费",1905环球经典
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC3.png" group-title="数字付费",CHC动作电影
 http://58.59.47.242:8180/TV00000000000000000030@HHZT
@@ -221,25 +221,25 @@ http://58.59.47.242:8180/TV00000000000000000030@HHZT
 http://58.59.47.242:8180/TV00000000000000000029@HHZT
 #EXTINF:-1 tvg-id="182" tvg-name="CHC影迷电影" tvg-logo="https://pic.erw.cc/epglogo/shuzi/CHC4.png" group-title="数字付费",CHC影迷电影
 http://58.59.47.242:8180/TV00000000000000000031@HHZT
-#EXTINF:-1 tvg-id="285" tvg-logo="https://pic.erw.cc/epglogo/shuzi/qcxj.png" group-title="数字付费",七彩戏剧
+#EXTINF:-1 tvg-id="285" tvg-name="七彩戏剧" tvg-logo="https://pic.erw.cc/epglogo/shuzi/qcxj.png" group-title="数字付费",七彩戏剧
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="197" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai4.png" group-title="数字付费",上海外语
+#EXTINF:-1 tvg-id="197" tvg-name="上海外语" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai4.png" group-title="数字付费",上海外语
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="419" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai6.png" group-title="数字付费",上海教育
+#EXTINF:-1 tvg-id="419" tvg-name="上海教育" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai6.png" group-title="数字付费",上海教育
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/setvhd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="199" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai1.png" group-title="数字付费",上海新闻综合
+#EXTINF:-1 tvg-id="199" tvg-name="上海新闻综合" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai1.png" group-title="数字付费",上海新闻综合
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="198" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dycj.png" group-title="数字付费",上海第一财经
+#EXTINF:-1 tvg-id="198" tvg-name="第一财经" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dycj.png" group-title="数字付费",上海第一财经
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="263" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai2.png" group-title="数字付费",上海都市
+#EXTINF:-1 tvg-id="263" tvg-name="上海都市" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai2.png" group-title="数字付费",上海都市
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="141" tvg-name="世界地理" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVsjdl.png" group-title="数字付费",世界地理
 http://ott.mobaibox.com/PLTV/4/224/3221228680/index.m3u8
-#EXTINF:-1 tvg-id="195" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai3.png" group-title="数字付费",东方影视
+#EXTINF:-1 tvg-id="195" tvg-name="东方影视" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai3.png" group-title="数字付费",东方影视
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="174" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dfcj.png" group-title="数字付费",东方财经
+#EXTINF:-1 tvg-id="174" tvg-name="东方财经" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dfcj.png" group-title="数字付费",东方财经
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="264" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhtc.png" group-title="数字付费",中华特产
+#EXTINF:-1 tvg-id="264" tvg-name="中华特产" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhtc.png" group-title="数字付费",中华特产
 http://117.114.153.26:8180/TV00000000000000000103@HHZT
 #EXTINF:-1 tvg-id="262" tvg-name="中华美食" tvg-logo="https://pic.erw.cc/epglogo/shuzi/zhms.png" group-title="数字付费",中华美食
 http://223.110.241.139:6610/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
@@ -249,13 +249,13 @@ http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8id=tianqiSD
 #EXTINF:-1 tvg-id="437" tvg-name="中学生" tvg-logo="https://pic.erw.cc/epglogo/cctv/cctvzxs.png" group-title="数字付费",中学生
 http://223.110.241.139:6610/gitv/live1/G_ZHONGXUESHENG/G_ZHONGXUESHENG/
-#EXTINF:-1 tvg-id="179" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="数字付费",乐游
+#EXTINF:-1 tvg-id="179" tvg-name="乐游" tvg-logo="https://pic.erw.cc/epglogo/shuzi/leyou.png" group-title="数字付费",乐游
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="241" tvg-name="书画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shpd.png" group-title="数字付费",书画
 http://117.114.153.26:8180/TV00000000000000000133@HHZT
-#EXTINF:-1 tvg-id="282" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yybb.png" group-title="数字付费",优优宝贝
+#EXTINF:-1 tvg-id="282" tvg-name="优优宝贝" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yybb.png" group-title="数字付费",优优宝贝
 http://117.114.153.26:8180/TV00000000000000000011@HHZT
-#EXTINF:-1 tvg-id="170" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai5.png" group-title="数字付费",五星体育
+#EXTINF:-1 tvg-id="170" tvg-name="五星体育" tvg-logo="https://pic.erw.cc/epglogo/shanghai/Shanghai5.png" group-title="数字付费",五星体育
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 group-title="数字付费",京东
 http://ott.mobaibox.com/PLTV/1/224/3221228591/index.m3u8
@@ -263,9 +263,9 @@ http://ott.mobaibox.com/PLTV/1/224/3221228591/index.m3u8
 http://223.110.241.139:6610/gitv/live1/G_JINGJU/G_JINGJU/
 #EXTINF:-1 tvg-id="143" tvg-name="兵器科技" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVbqkj.png" group-title="数字付费",兵器科技
 http://ott.mobaibox.com/PLTV/4/224/3221228686/index.m3u8
-#EXTINF:-1 tvg-id="175" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dmxc.png" group-title="数字付费",动漫秀场
+#EXTINF:-1 tvg-id="175" tvg-name="动漫秀场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dmxc.png" group-title="数字付费",动漫秀场
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="176" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jbty.png" group-title="数字付费",劲爆体育
+#EXTINF:-1 tvg-id="176" tvg-name="劲爆体育" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jbty.png" group-title="数字付费",劲爆体育
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
 #EXTINF:-1 tvg-id="135" tvg-name="卡酷少儿" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing8.png" group-title="数字付费",卡酷少儿
 http://gslbservzqhsw.itv.cmvideo.cn/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
@@ -293,11 +293,11 @@ http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031206/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031206
 #EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVhjjc.png" group-title="数字付费",怀旧剧场
 http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
-#EXTINF:-1 tvg-id="426" tvg-logo="https://pic.erw.cc/epglogo/shuzi/sctx.png" group-title="数字付费",收藏天下
+#EXTINF:-1 tvg-id="426" tvg-name="收藏天下" tvg-logo="https://pic.erw.cc/epglogo/shuzi/sctx.png" group-title="数字付费",收藏天下
 http://taoa.x3322.net:45678/cqyx.php?id=soucang
 #EXTINF:-1 tvg-id="283" tvg-name="新动漫" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xindm.png" group-title="数字付费",新动漫
-http://php.jdshipin.com:8880/cqyx.php?id=dongman
-#EXTINF:-1 tvg-id="172" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xsj.png" group-title="数字付费",新视觉
+http://58.59.47.242:8180/TV00000000000000000014@HHZT
+#EXTINF:-1 tvg-id="172" tvg-name="新视觉" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xsj.png" group-title="数字付费",新视觉
 http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="228" tvg-name="早期教育" tvg-logo="https://pic.erw.cc/epglogo/cctv/cetvzqjy.png" group-title="数字付费",早期教育
 http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
@@ -315,17 +315,17 @@ http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="汽摩" tvg-logo="https://pic.erw.cc/epglogo/shuzi/qmpd.png" group-title="数字付费",汽摩
 http://223.110.241.139:6610/gitv/live1/G_QIMO/G_QIMO/
-#EXTINF:-1 tvg-id="187" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png" group-title="数字付费",法治天地
+#EXTINF:-1 tvg-id="187" tvg-name="法治天地" tvg-logo="https://pic.erw.cc/epglogo/shuzi/fztd.png" group-title="数字付费",法治天地
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="222" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="数字付费",游戏风云
+#EXTINF:-1 tvg-id="222" tvg-name="游戏风云" tvg-logo="https://pic.erw.cc/epglogo/shuzi/yxfy.png" group-title="数字付费",游戏风云
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000027005/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000027005
 #EXTINF:-1 tvg-id="233" tvg-name="环球奇观" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hyqg.png" group-title="数字付费",环球奇观
 http://223.110.241.139:6610/gitv/live1/G_HUANGQIUQIGUAN/G_HUANGQIUQIGUAN/
-#EXTINF:-1 tvg-id="238" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hqly.png" group-title="数字付费",环球旅游
+#EXTINF:-1 tvg-id="238" tvg-name="环球旅游" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hqly.png" group-title="数字付费",环球旅游
 http://117.114.153.26:8180/TV00000000000000000054@HHZT
 #EXTINF:-1 tvg-id="234" tvg-name="现代女性" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVxdnx.png" group-title="数字付费",现代女性
 http://223.110.241.139:6610/gitv/live1/G_XIANDAINX/G_XIANDAINX/
-#EXTINF:-1 tvg-id="188" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shss.png" group-title="数字付费",生活时尚
+#EXTINF:-1 tvg-id="188" tvg-name="生活时尚" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shss.png" group-title="数字付费",生活时尚
 http://gslbservzqhsw.itv.cmvideo.cn/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png" group-title="数字付费",电视指南
 http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
@@ -339,25 +339,25 @@ http://223.110.241.139:6610/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-108
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-id="226" tvg-name="老故事" tvg-logo="https://pic.erw.cc/epglogo/cctv/cctvlgs.png" group-title="数字付费",老故事
 http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-#EXTINF:-1 tvg-id="177" tvg-logo="https://pic.erw.cc/epglogo/shuzi/chapd.png" group-title="数字付费",茶频道
+#EXTINF:-1 tvg-id="177" tvg-name="茶频道" tvg-logo="https://pic.erw.cc/epglogo/shuzi/chapd.png" group-title="数字付费",茶频道
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6582" tvg-name="证券资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhengquan.png" group-title="数字付费",证券资讯
 http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="数字付费",财富天下
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="数字付费",财富天下
 http://117.114.153.26:8180/TV00000000000000000043@HHZT
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="数字付费",车迷频道
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="数字付费",车迷频道
 http://117.114.153.26:8180/TV00000000000000000055@HHZT
-#EXTINF:-1 tvg-id="178" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="数字付费",都市剧场
+#EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="数字付费",都市剧场
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000004412/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000004412
 #EXTINF:-1 tvg-id="351" tvg-name="重温经典" tvg-logo="https://pic.erw.cc/epglogo/sichuan/Sichuan10.png" group-title="数字付费",重温经典
 http://117.114.153.26:8180/TV00000000000000000092@HHZT
-#EXTINF:-1 tvg-id="185" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png" group-title="数字付费",金色学堂
+#EXTINF:-1 tvg-id="185" tvg-name="金色学堂" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jsxt.png" group-title="数字付费",金色学堂
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="数字付费",金鹰卡通
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=4
-#EXTINF:-1 tvg-id="169" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan9.png" group-title="数字付费",金鹰纪实
+#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan9.png" group-title="数字付费",金鹰纪实
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/shuzi/tcpd.png" group-title="数字付费",陶瓷
+#EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://pic.erw.cc/epglogo/shuzi/tcpd.png" group-title="数字付费",陶瓷
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=taoci
 #EXTINF:-1 tvg-id="139" tvg-name="风云剧场" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVfyjc.png" group-title="数字付费",风云剧场
 http://ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
@@ -367,7 +367,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228665/index.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="高尔夫网球" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVgefwq.png" group-title="数字付费",高尔夫网球
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-id="186" tvg-logo="https://pic.erw.cc/epglogo/shuzi/mlzq.png" group-title="数字付费",魅力足球
+#EXTINF:-1 tvg-id="186" tvg-name="魅力足球" tvg-logo="https://pic.erw.cc/epglogo/shuzi/mlzq.png" group-title="数字付费",魅力足球
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
 #EXTINF:-1 tvg-id="345" tvg-name="黑莓动画" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hmdh.png" group-title="NewTV",黑莓动画
 http://223.110.241.139:6610/cntv/live1/donghuawg/donghuawg

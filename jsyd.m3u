@@ -498,7 +498,11 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/meiyady.png" group-title="港澳台",美亚电影台
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBSNEWS" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="港澳台",TVBSNEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CTI4.png" group-title="港澳台",中天亚洲台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CTI2.png" group-title="港澳台",中天新闻
@@ -534,7 +538,7 @@ rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTV.png" group-title="港澳台",中视
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="440" tvg-name="台视新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TTV2.png" group-title="港澳台",台视新闻台
-http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB4.png" group-title="港澳台",无线新闻
 https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="无线财经" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB5.png" group-title="港澳台",无线财经

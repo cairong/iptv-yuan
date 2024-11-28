@@ -503,6 +503,8 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CTI2.png" group-title="港澳台",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.png" group-title="港澳台",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTV.png" group-title="港澳台",中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="中视新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CTV1.png" group-title="港澳台",中视新闻台
@@ -519,10 +521,18 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="港澳台",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://live.fanmingming.com/tv/三立戏剧台.png" group-title="港澳台",三立戏剧台
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET6.png" group-title="港澳台",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-name="纬来精采" tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="港澳台",纬来精采
+#EXTINF:-1 tvg-id="485" tvg-name="纬来精采" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland4.png" group-title="港澳台",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 tvg-id="481" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="港澳台",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 tvg-id="484" tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="港澳台",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 tvg-id="483" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="港澳台",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTV.png" group-title="港澳台",中视
+rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-id="440" tvg-name="台视新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TTV2.png" group-title="港澳台",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB4.png" group-title="港澳台",无线新闻

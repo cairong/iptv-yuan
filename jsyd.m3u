@@ -519,9 +519,9 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/55/index.m3u8
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="港澳台",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-name=三立戏剧台 tvg-logo=https://live.fanmingming.com/tv/三立戏剧台.png group-title=港澳台,三立戏剧台
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://live.fanmingming.com/tv/三立戏剧台.png" group-title="港澳台",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-name=纬来精采 tvg-logo=https://live.fanmingming.com/tv/纬来精采.png group-title=港澳台,纬来精采
+#EXTINF:-1 tvg-name="纬来精采" tvg-logo="https://live.fanmingming.com/tv/纬来精采.png" group-title="港澳台",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="台视新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TTV2.png" group-title="港澳台",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8

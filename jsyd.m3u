@@ -515,6 +515,12 @@ http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视
 http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV4.png" group-title="港澳台",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="八大第1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="港澳台",八大第1台
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="港澳台",八大综合台
+http://61.221.215.25:8800/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="台视新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TTV2.png" group-title="港澳台",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="无线新闻" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB4.png" group-title="港澳台",无线新闻

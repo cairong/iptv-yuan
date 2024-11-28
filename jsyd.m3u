@@ -519,6 +519,22 @@ http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视
 http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
+#EXTINF:-1 tvg-name="大立" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/dalitv.png" group-title="港澳台",大立
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-name="点掌财经" tvg-logo="https://live.fanmingming.com/tv/点掌财经.png" group-title="港澳台",点掌财经
+https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Unique1.png" group-title="港澳台",非凡新闻
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-id="442" tvg-name="华视" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CTS.png" group-title="港澳台",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GoodTV1.png" group-title="港澳台",好消息
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv16
+#EXTINF:-1 tvg-name="好消息2" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GoodTV2.png" group-title="港澳台",好消息2
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv17
+#EXTINF:-1 tvg-id="441" tvg-name="民视" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/FTV.png" group-title="港澳台",民视
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-id="441" tvg-name="民视新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/FTV1.png" group-title="港澳台",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GTV4.png" group-title="港澳台",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 tvg-name="八大第1台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GTV2.png" group-title="港澳台",八大第1台
@@ -543,8 +559,6 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="无线财经" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB5.png" group-title="港澳台",无线财经
 https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="441" tvg-name="民视新闻台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/FTV1.png" group-title="港澳台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",汉天TV
 http://38.64.72.148:80/hls/modn/list/4025/playlist.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="澳亚卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Aoya.png" group-title="港澳台",澳亚卫视

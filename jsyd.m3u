@@ -179,7 +179,7 @@ http://www.17888.fun:10000//rtp/239.45.1.1:5140
 http://www.17888.fun:10000//rtp/239.45.1.10:5140
 #EXTINF:-1 group-title="4K+",百事通4K电影
 http://www.17888.fun:10000//udp/239.45.3.107:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ah4k.png" group-title="4K+",爱上4K
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/ah4k.png" group-title="4K+",爱上4K
 http://ikuai.zlsip.top:4022/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="183" tvg-name="欢笑剧场4K" tvg-logo="https://pic.erw.cc/epglogo/shuzi/hxjc4k.png" group-title="4K+",欢笑剧场4K
 http://58.37.132.119:8888/udp/239.45.1.4:5140
@@ -341,7 +341,7 @@ http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="6582" tvg-name="证券资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhengquan.png" group-title="数字付费",证券资讯
 http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="数字付费",财富天下
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/cftx.png" group-title="数字付费",财富天下
 http://117.114.153.26:8180/TV00000000000000000043@HHZT
 #EXTINF:-1 tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="数字付费",车迷频道
 http://117.114.153.26:8180/TV00000000000000000055@HHZT
@@ -477,11 +477,11 @@ http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-id="558" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="境外电视",TVB星河
+#EXTINF:-1 tvg-id="558" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TVB6.png" group-title="境外电视",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-id="" tvg-name="TVBS生活台" tvg-logo="" group-title="港澳台",TVBS生活台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-#EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲武侠" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB15.png" group-title="港澳台",TVBS亚洲武侠
+#EXTINF:-1 tvg-id="" tvg-name="TVBS亚洲武侠" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TVB15.png" group-title="港澳台",TVBS亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-id="" tvg-name="TVBS娱乐新闻台" tvg-logo="" group-title="港澳台",TVBS娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -499,7 +499,7 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="港澳台",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/meiyady.png" group-title="港澳台",美亚电影台
+#EXTINF:-1 tvg-id="224" tvg-name="美亚电影台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/meiyady.png" group-title="港澳台",美亚电影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBSNEWS" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="港澳台",TVBSNEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
@@ -507,7 +507,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CTI2.png" group-title="港澳台",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.png" group-title="港澳台",中天娱乐
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CTI3.png" group-title="港澳台",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTV.png" group-title="港澳台",中视
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
@@ -519,21 +519,21 @@ http://ott.mobaibox.com/PLTV/4/224/3221228530/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视
 http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
-#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV4.png" group-title="港澳台",八大戏剧台
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GTV4.png" group-title="港澳台",八大戏剧台
 http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="八大第1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="港澳台",八大第1台
+#EXTINF:-1 tvg-name="八大第1台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GTV2.png" group-title="港澳台",八大第1台
 http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="港澳台",八大综合台
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GTV1.png" group-title="港澳台",八大综合台
 http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET6.png" group-title="港澳台",三立戏剧台
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/SET6.png" group-title="港澳台",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="485" tvg-name="纬来精采" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland4.png" group-title="港澳台",纬来精采
+#EXTINF:-1 tvg-id="485" tvg-name="纬来精采" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Videoland4.png" group-title="港澳台",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="481" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="港澳台",纬来日本
+#EXTINF:-1 tvg-id="481" tvg-name="纬来日本" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Videoland5.png" group-title="港澳台",纬来日本
 rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-id="484" tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="港澳台",纬来育乐
+#EXTINF:-1 tvg-id="484" tvg-name="纬来育乐" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Videoland6.png" group-title="港澳台",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-id="483" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="港澳台",纬来体育
+#EXTINF:-1 tvg-id="483" tvg-name="纬来体育" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Videoland7.png" group-title="港澳台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-id="443" tvg-name="中视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/CTV.png" group-title="港澳台",中视
 rtmp://f13h.mine.nu/sat/tv091
@@ -563,37 +563,37 @@ http://38.64.72.148:80/hls/modn/list/4008/playlist.m3u8
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/gangaotai/xgkai.png" group-title="港澳台",香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelV.png" group-title="境外电视",Channel V
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/ChannelV.png" group-title="境外电视",Channel V
 http://117.114.153.26:8180/TV00000000000000000067@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarSports.png" group-title="境外电视",Star Sports
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/StarSports.png" group-title="境外电视",Star Sports
 http://117.114.153.26:8180/TV00000000000000000070@HHZT
 #EXTINF:-1 tvg-id="518" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Startv.png" group-title="境外电视",星空卫视
 http://117.114.153.26:8180/TV00000000000000000071@HHZT
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix4.png" group-title="境外电视",凤凰电影
 http://117.114.153.26:8180/TV00000000000000000072@HHZT
-#EXTINF:-1 tvg-id="512" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="境外电视",HBO
+#EXTINF:-1 tvg-id="512" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/HBO.png" group-title="境外电视",HBO
 http://117.114.153.26:8180/TV00000000000000000074@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarMovies.png" group-title="境外电视",Star Movies
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/StarMovies.png" group-title="境外电视",Star Movies
 http://117.114.153.26:8180/TV00000000000000000075@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="境外电视",AXN
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/AXNTV.png" group-title="境外电视",AXN
 http://117.114.153.26:8180/TV00000000000000000076@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/325.png" group-title="境外电视",Discovery
 http://117.114.153.26:8180/TV00000000000000000077@HHZT
 #EXTINF:-1 tvg-logo="http://epg.one/img2/8038.png" group-title="境外电视",CNN
 http://117.114.153.26:8180/TV00000000000000000108@HHZT
-#EXTINF:-1 tvg-id="516" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Cinemax.png" group-title="境外电视",CINEMAX
+#EXTINF:-1 tvg-id="516" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Cinemax.png" group-title="境外电视",CINEMAX
 http://117.114.153.26:8180/TV00000000000000000109@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNBCAsia.png" group-title="境外电视",CNBC
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/CNBCAsia.png" group-title="境外电视",CNBC
 http://117.114.153.26:8180/TV00000000000000000110@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/StarSports.png" group-title="境外电视",Star Sports2
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/StarSports.png" group-title="境外电视",Star Sports2
 http://117.114.153.26:8180/TV00000000000000000111@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NATGEO.png" group-title="境外电视",国家地理
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/NATGEO.png" group-title="境外电视",国家地理
 http://117.114.153.26:8180/TV00000000000000000112@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png" group-title="境外电视",NHK
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/NHKWorld.png" group-title="境外电视",NHK
 http://117.114.153.26:8180/TV00000000000000000161@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="境外电视",TV5MONDE
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TV5Monde.png" group-title="境外电视",TV5MONDE
 http://117.114.153.26:8180/TV00000000000000000162@HHZT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png" group-title="境外电视",Bloomberg
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/BloombergTV.png" group-title="境外电视",Bloomberg
 http://117.114.153.26:8180/TV00000000000000000163@HHZT
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/kr/KBSWorld.png" group-title="境外电视",KBS
 http://117.114.153.26:8180/TV00000000000000000166@HHZT

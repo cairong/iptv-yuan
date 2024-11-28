@@ -515,7 +515,7 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8	
 #EXTINF:-1 group-title="港澳台",myTV SUPER 18
 http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8	
-#EXTINF:-1 tvg-id="555" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="港澳台",千禧经典台
+#EXTINF:-1 tvg-id="555" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TVB14.png" group-title="港澳台",千禧经典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠综合台（北美）
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
@@ -525,7 +525,7 @@ http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="190" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TVB2.png" group-title="港澳台",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="港澳台",黄金翡翠台
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TVB14.png" group-title="港澳台",黄金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/LTV5.png" group-title="港澳台",龙华日韩台
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
@@ -543,7 +543,7 @@ http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8	
 #EXTINF:-1 tvg-id="223" group-title="港澳台",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVNChannel.png" group-title="港澳台",tvN
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TVNChannel.png" group-title="港澳台",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8	
 #EXTINF:-1 tvg-id="225" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/TVB4.png" group-title="港澳台",无线新闻台（北美）
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
@@ -557,27 +557,27 @@ http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/France24.png" group-title="港澳台",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/KixTV.png" group-title="港澳台",KIX
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/KixTV.png" group-title="港澳台",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNature4K.png" group-title="港澳台",Love Nature HD
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/LoveNarure4K.png" group-title="港澳台",Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png" group-title="港澳台",NHK World-Japan
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png" group-title="港澳台",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8	
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickjr.png" group-title="港澳台",Nick Jr
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Nickjr.png" group-title="港澳台",Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8	
 #EXTINF:-1 group-title="港澳台",無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="港澳台",亞洲新聞台
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/ChannelAsia.png" group-title="港澳台",亞洲新聞台
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang.png" group-title="港澳台",東方衛視國際頻道
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/thrill.png" group-title="港澳台",Thrill
+#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/thrill.png" group-title="港澳台",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 tvg-id="451" group-title="港澳台",HOY咨询台
+#EXTINF:-1 tvg-id="451" group-title="港澳台",HOY资讯台
 http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-name="好消息" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/GoodTV1.png" group-title="港澳台",好消息
 http://litv.zapi.us.kg/4gTV/?id=litv-ftv16

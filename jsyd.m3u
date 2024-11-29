@@ -357,6 +357,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=10
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="https://pic.erw.cc/epglogo/shuzi/tcpd.png" group-title="数字付费",陶瓷
 https://iptv-live.jxtvcn.com.cn/showto/tv_taoci.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://pic.erw.cc/epglogo/shuzi/tywq.png" group-title="数字付费",天元围棋
+https://025365.xyz:8082/gd/gd2.php?id=G_TIANYUANWQ
 #EXTINF:-1 tvg-id="139" tvg-name="风云剧场" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVfyjc.png" group-title="数字付费",风云剧场
 http://ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="风云足球" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVfyzq.png" group-title="数字付费",风云足球

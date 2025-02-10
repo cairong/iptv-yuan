@@ -685,7 +685,7 @@ http://117.114.153.26:8180/TV00000000000000000166@HHZT
 http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 #EXTINF:-1 tvg-id="390" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai04.png" group-title="睛彩",睛彩竞技
 http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
-#EXTINF:-1 group-title="睛彩",睛彩青少
+#EXTINF:-1 tvg-id="389" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai02.png" group-title="睛彩",睛彩青少
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-#EXTINF:-1 group-title="睛彩",睛彩广场舞
+#EXTINF:-1 tvg-id="392" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai01.png" group-title="睛彩",睛彩广场舞
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8

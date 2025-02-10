@@ -687,3 +687,5 @@ http://ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
 #EXTINF:-1 group-title="睛彩",睛彩青少
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+#EXTINF:-1 group-title="睛彩",睛彩广场舞
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8

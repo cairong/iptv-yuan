@@ -274,11 +274,11 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=10
 #EXTINF:-1 tvg-id="159" tvg-name="嘉佳卡通" tvg-logo="https://pic.erw.cc/epglogo/guangdong/Guangdong14.png" group-title="数字付费",嘉佳卡通
 http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="239" tvg-name="四海钓鱼" tvg-logo="https://pic.erw.cc/epglogo/shuzi/shdy.png" group-title="数字付费",四海钓鱼
-http://php.jdshipin.com:8880/cqyx.php?id=diaoyu
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="236" tvg-name="国学" tvg-logo="https://pic.erw.cc/epglogo/shuzi/gxpd.png" group-title="数字付费",国学
 http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://pic.erw.cc/epglogo/shuzi/tywq.png" group-title="数字付费",天元围棋
-https://025365.xyz:8082/gd/gd2.php?id=G_TIANYUANWQ
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="148" tvg-name="央视台球" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVystq.png" group-title="数字付费",央视台球
 http://ott.mobaibox.com/PLTV/4/224/3221228683/index.m3u8
 #EXTINF:-1 tvg-id="6569" tvg-name="央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",央视文化精品
@@ -289,7 +289,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228674/index.m3u8
 http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="425" tvg-name="弈坛春秋" tvg-logo="https://pic.erw.cc/epglogo/shuzi/ytcq.png" group-title="数字付费",弈坛春秋
 http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
-#EXTINF:-1 tvg-id="173" tvg-logo="https://pic.erw.cc/epglogo/shuzi/klcd.png" group-title="数字付费",快乐垂钓
+#EXTINF:-1 tvg-id="173" tvg-name="快乐垂钓" tvg-logo="https://pic.erw.cc/epglogo/shuzi/klcd.png" group-title="数字付费",快乐垂钓
 http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="140" tvg-name="怀旧剧场" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVhjjc.png" group-title="数字付费",怀旧剧场
 http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
@@ -301,10 +301,12 @@ http://58.59.47.242:8180/TV00000000000000000014@HHZT
 http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="228" tvg-name="早期教育" tvg-logo="https://pic.erw.cc/epglogo/cctv/cetvzqjy.png" group-title="数字付费",早期教育
 http://ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://pic.erw.cc/epglogo/shuzi/xfpy.png" group-title="数字付费",先锋乒羽
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/xfpy_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="230" tvg-name="梨园" tvg-logo="https://pic.erw.cc/epglogo/shuzi/lypd.png" group-title="数字付费",梨园
-http://113.195.13.183:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/ly_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="229" tvg-name="武术世界" tvg-logo="https://pic.erw.cc/epglogo/shuzi/WUSHUSHIJIE.png" group-title="数字付费",武术世界
-http://113.195.13.183:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=0&authid=0
+http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://pic.erw.cc/epglogo/shuzi/Qiusuo3.png" group-title="数字付费",求索动物
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://pic.erw.cc/epglogo/shuzi/Qiusuo4.png" group-title="数字付费",求索生活
@@ -329,7 +331,7 @@ http://223.110.241.139:6610/gitv/live1/G_XIANDAINX/G_XIANDAINX/
 http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=&U=&A=&K=&P=&S=
 #EXTINF:-1 tvg-id="436" tvg-name="电视指南" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdszn.png" group-title="数字付费",电视指南
 http://ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/cctvyidong.png" group-title="数字付费",移动频道
+#EXTINF:-1 tvg-name="移动频道" tvg-logo="https://gitee.com/xionggewx/iptv-yuan/raw/main/logo/cctvyidong.png" group-title="数字付费",移动频道
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 #EXTINF:-1 tvg-id="138" tvg-name="第一剧场" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTVdyjc.png" group-title="数字付费",第一剧场
 http://ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8

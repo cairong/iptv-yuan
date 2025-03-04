@@ -503,7 +503,7 @@ http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8	
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Nickelodeon.png" group-title="港澳台",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8	
-#EXTINF:-1 tvg-id="559" group-title="港澳台",PopC
+#EXTINF:-1 tvg-id="559" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/PopC.png" group-title="港澳台",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8	

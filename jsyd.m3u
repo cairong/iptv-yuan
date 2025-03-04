@@ -487,7 +487,7 @@ http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-id="450" tvg-name="HOY77" tvg-logo="https://qx.erw.cc/wutu.png" group-title="港澳台",HOY77
 http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="451" group-title="港澳台",HOY资讯台
+#EXTINF:-1 tvg-id="451" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Hoy78.png" group-title="港澳台",HOY资讯台
 http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/KixTV.png" group-title="港澳台",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
@@ -511,7 +511,7 @@ http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/thrill.png" group-title="港澳台",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 tvg-id="223" group-title="港澳台",TVB Plus
+#EXTINF:-1 tvg-id="223" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/TVB5.png" group-title="港澳台",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBSNEWS" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png" group-title="港澳台",TVBSNEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
@@ -603,7 +603,7 @@ http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4025/playlist.m3u8
 #EXTINF:-1 tvg-id="191" tvg-name="澳亚卫视" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Aoya.png" group-title="港澳台",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Aoshi6.png" group-title="港澳台",澳门 Macau
+#EXTINF:-1 tvg-id="519" tvg-logo="https://gitee.com/wanglindl/TVlogo/raw/master/img/Aoshi6.png" group-title="港澳台",澳门 Macau
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 tvg-name="点掌财经" tvg-logo="https://live.fanmingming.com/tv/点掌财经.png" group-title="港澳台",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8

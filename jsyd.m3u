@@ -149,15 +149,15 @@ http://ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-id="455" tvg-name="南京新闻综合" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-1.png" group-title="江苏",南京新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-id="495" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi2.png" group-title="江苏",无锡娱乐
+#EXTINF:-1 tvg-id="495" tvg-name="无锡娱乐" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi2.png" group-title="江苏",无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="493" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi1.png" group-title="江苏",无锡新闻综合
+#EXTINF:-1 tvg-id="493" tvg-name="无锡新闻综合" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi1.png" group-title="江苏",无锡新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
-#EXTINF:-1 tvg-id="497" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi4.png" group-title="江苏",无锡生活
+#EXTINF:-1 tvg-id="497" tvg-name="无锡生活" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi4.png" group-title="江苏",无锡生活
 http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-id="496" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi5.png" group-title="江苏",无锡经济
+#EXTINF:-1 tvg-id="496" tvg-name="无锡经济" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi5.png" group-title="江苏",无锡经济
 http://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 tvg-id="494" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi3.png" group-title="江苏",无锡都市资讯
+#EXTINF:-1 tvg-id="494" tvg-name="无锡都市资讯" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Wuxi3.png" group-title="江苏",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="220" tvg-name="江苏体育" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu5.png" group-title="江苏",江苏体育
 http://ott.mobaibox.com/PLTV/4/224/3221228746/index.m3u8
@@ -171,7 +171,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228613/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228743/index.m3u8
 #EXTINF:-1 tvg-id="218" tvg-name="江苏综艺" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu3.png" group-title="江苏",江苏综艺
 http://ott.mobaibox.com/PLTV/4/224/3221228731/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV4k.png" group-title="4K+",CCTV4K超高清
+#EXTINF:-1 tvg-id="26" tvg-name="CCTV4K超高清" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV4k.png" group-title="4K+",CCTV4K超高清
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="4K+",百事通4K儿童
 http://www.17888.fun:10000//rtp/239.45.1.1:5140
@@ -187,7 +187,7 @@ http://101.204.187.4:8731/hls.p2p.com/58.144.234.4/live2.rxip.sc96655.com/live/h
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 group-title="4K+",8K测试 48M4320
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="4K+",CCTV1-4K
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1-4K" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="4K+",CCTV1-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV16.png" group-title="4K+",CCTV16-4K 18M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8

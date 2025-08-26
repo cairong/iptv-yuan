@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+﻿#EXTM3U x-tvg-url="http://vip.erw.cc/e.xml?k=ogn3OswoMJXgwjpe&e.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV2
@@ -693,3 +693,4 @@ http://ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
 #EXTINF:-1 tvg-id="392" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai01.png" group-title="睛彩",睛彩广场舞
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+

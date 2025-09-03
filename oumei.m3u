@@ -505,3 +505,11 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="2491" tvg-name="FASHION TV" tvg-logo="http://epg.one/img2/2491.png" group-title="Fashion TV",FASHION TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="431" tvg-name="Shot TV" tvg-logo="http://epg.one/img2/431.png" group-title="欧美",Shot TV orig
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/9347/index.m3u
+#EXTINF:0 tvg-id="8846" tvg-name="StrahTV Adult TV" tvg-logo="http://epg.one/img2/8846.png" group-title="欧美",StrahTV Adult TV HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/31707/index.m3u
+#EXTINF:0 tvg-id="8847" tvg-name="PlayBoyz" tvg-logo="http://epg.one/img2/8847.png" group-title="欧美",StrahTV PlayBoyz TV HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/31709/index.m3u
+#EXTINF:0 tvg-id="8848" tvg-name="Ню Арт" tvg-logo="http://epg.one/img2/8848.png" group-title="欧美",StrahTV Ню Арт HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/31716/index.m3u

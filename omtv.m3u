@@ -1,5 +1,5 @@
 ﻿#EXTM3U x-tvg-url="http://epg.one/epg2.xml"
-#EXTINF:0 group-title="新闻资讯",Sky Sports News HD 50 UK
+#EXTINF:0 tvg-id="9051" tvg-name="Sky Sports News HD 50 UK" tvg-logo="http://epg.one/img2/9051.png" group-title="新闻资讯",Sky Sports News HD 50 UK
 http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/9314/index.m3u
 #EXTINF:0 group-title="新闻资讯",Экоспаскоми (Коми)
 http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/17018/index.m3u
